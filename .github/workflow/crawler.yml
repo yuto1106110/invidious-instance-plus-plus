@@ -1,0 +1,27 @@
+name: Run Invidious Crawler Every 5min
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # 5分ごとに実行
+  workflow_dispatch: # 手動起動もできるように
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml feedparser
+
+      - name: Run crawler
+        run: |
+          python crawler.py
