@@ -28,7 +28,7 @@ def fetch_from_official_list():
         print("[公式] エラー:", e)
         return []
 
-# GitHubから取得
+# GitHub Wikiから取得
 def fetch_from_github():
     urls = []
     try:
@@ -39,12 +39,12 @@ def fetch_from_github():
             href = link['href']
             if href.startswith("http") and "invidio" in href:
                 urls.append(href)
-        print(f"[GitHub] {len(urls)}個取得")
+        print(f"[GitHub Wiki] {len(urls)}個取得")
     except Exception as e:
-        print("[GitHub] エラー:", e)
+        print("[GitHub Wiki] エラー:", e)
     return urls
 
-# redditから取得
+# Redditから取得
 def fetch_from_reddit():
     urls = []
     try:
@@ -60,7 +60,7 @@ def fetch_from_reddit():
         print("[Reddit] エラー:", e)
     return urls
 
-# 簡易検索（擬似Google/Bingクロール）
+# 簡易検索から取得
 def fetch_from_fake_search():
     urls = []
     search_targets = [
@@ -84,6 +84,23 @@ def fetch_from_fake_search():
     print(f"[検索] {len(urls)}個取得")
     return urls
 
+# ★ GitHubの自作APIリストから取得
+def fetch_from_github_raw():
+    urls = []
+    try:
+        res = requests.get("https://raw.githubusercontent.com/yuto1106110/yuto-yuki-youtube-1/refs/heads/main/APItati", headers=HEADERS, timeout=10)
+        if res.status_code == 200:
+            data = res.json()
+            for key in data:
+                if isinstance(data[key], list):
+                    for url in data[key]:
+                        if isinstance(url, str) and url.startswith("http"):
+                            urls.append(url)
+        print(f"[GitHub Raw JSON] {len(urls)}個取得")
+    except Exception as e:
+        print("[GitHub Raw JSON] エラー:", e)
+    return urls
+
 # 本当にInvidiousかチェック
 def check_instance_alive(url):
     try:
@@ -97,7 +114,7 @@ def check_instance_alive(url):
         pass
     return False
 
-# 重複除去 + バリデーション
+# 重複除去
 def clean_urls(urls):
     cleaned = set()
     for url in urls:
@@ -116,6 +133,7 @@ def crawl_invidious_instances():
     all_urls += fetch_from_github()
     all_urls += fetch_from_reddit()
     all_urls += fetch_from_fake_search()
+    all_urls += fetch_from_github_raw()  # ★追加！
 
     all_urls = clean_urls(all_urls)
     print(f"収集後、候補数：{len(all_urls)}")
@@ -143,4 +161,4 @@ def main_loop():
         time.sleep(5 * 60)
 
 if __name__ == "__main__":
-    crawl_invidious_instances()  # 1回だけ実行して終了する
+    main_loop()
