@@ -143,4 +143,4 @@ def main_loop():
         time.sleep(5 * 60)
 
 if __name__ == "__main__":
-    main_loop()
+    crawl_invidious_instances()  # 1回だけ実行して終了する
