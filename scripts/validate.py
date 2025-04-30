@@ -1,60 +1,57 @@
 
-import json, requests
-from urllib.parse import urljoin
+import json
+import requests
 from pathlib import Path
-from fetch_firebase import fetch_from_firebase
 
-CANDIDATE_FILE = Path("candidates/unverified.txt")
-VALID_FILE = Path("data/valid.json")
-INVALID_FILE = Path("data/invalid.txt")
+# === ディレクトリ・ファイル準備 ===
+data_dir = Path("data")
+data_dir.mkdir(exist_ok=True)
 
-def is_invidious(url):
+VALID_FILE = data_dir / "valid.json"
+CANDIDATE_FILE = data_dir / "candidates.json"
+
+# === 初期形式（全カテゴリ空） ===
+base_structure = {
+    "video": [],
+    "search": [],
+    "channel": [],
+    "playlist": [],
+    "comments": []
+}
+
+# === 既存の valid.json を読み込み or 初期化 ===
+if VALID_FILE.exists():
+    valid_urls = json.loads(VALID_FILE.read_text())
+else:
+    valid_urls = base_structure.copy()
+
+# === 候補URL読み込み ===
+if not CANDIDATE_FILE.exists():
+    print("候補URLファイルが見つかりません: data/candidates.json")
+    exit(1)
+
+with open(CANDIDATE_FILE, "r") as f:
+    candidate_urls = json.load(f)
+
+# === Invidious判定 ===
+def is_invidious_instance(url):
     try:
-        res = requests.get(urljoin(url, "/api/v1/stats"), timeout=5)
-        return res.status_code == 200 and "software" in res.json()
+        r = requests.get(url + "/api/v1/stats", timeout=5)
+        return r.ok and r.json().get("software") == "invidious"
     except:
         return False
 
-# 既存の有効・無効URL
-valid_urls = json.loads(VALID_FILE.read_text()) if VALID_FILE.exists() else {
-    "video": [],
-    "search": [],
-    "channel": [],
-    "playlist": [],
-    "comments": []
-}
-invalid_urls = set(INVALID_FILE.read_text().splitlines()) if INVALID_FILE.exists() else set()
-
-# 候補の読み込み（既存 + Firebaseから）
-raw_candidates = set(CANDIDATE_FILE.read_text().splitlines() if CANDIDATE_FILE.exists() else [])
-firebase_urls = fetch_from_firebase()
-all_candidates = set(firebase_urls).union(raw_candidates)
-
-# 判定 → invidiousだけ残して再保存
-new_candidates = []
-new_valid = {
-    "video": [],
-    "search": [],
-    "channel": [],
-    "playlist": [],
-    "comments": []
-}
-new_invalid = []
-
-for url in sorted(all_candidates):
-    url = url.strip().rstrip("/")
-    if not url or url in valid_urls["video"] or url in valid_urls["search"] or url in valid_urls["channel"] or url in valid_urls["playlist"] or url in valid_urls["comments"] or url in invalid_urls:
-        continue
-    if is_invidious(url):
-        print(f"[検証] {url} → Invidious")
-        if url not in valid_urls["video"]:
-            new_valid["video"].append(url)
-        new_candidates.append(url)  # 未検証だがInvidiousと判定
+# === 検証・追加 ===
+for url in candidate_urls:
+    print(f"[検証] {url} → ", end="")
+    if is_invidious_instance(url):
+        print("Invidious")
+        for category in valid_urls.keys():
+            if url not in valid_urls[category]:
+                valid_urls[category].append(url)
     else:
-        print(f"[検証] {url} → 無効")
-        new_invalid.append(url)
+        print("無効")
 
-# 保存
-VALID_FILE.write_text(json.dumps(valid_urls | new_valid, indent=2))
-INVALID_FILE.write_text("\n".join(sorted(invalid_urls.union(new_invalid))))
-CANDIDATE_FILE.write_text("\n".join(sorted(new_candidates)))
+# === 保存 ===
+VALID_FILE.write_text(json.dumps(valid_urls, indent=2, ensure_ascii=False))
+print("→ data/valid.json に保存完了。")
