@@ -1,1 +1,19 @@
-
+{
+  "video": [
+    "https://iv.ggtyler.dev/",
+    "https://invidious.materialio.us/"
+  ],
+  "search": [
+    "https://pol1.iv.ggtyler.dev/",
+    "https://youtube.mosesmang.com/"
+  ],
+  "channel": [
+    "https://invid-api.poketube.fun/"
+  ],
+  "playlist": [
+    "https://pol1.iv.ggtyler.dev/"
+  ],
+  "comments": [
+    "https://invidious.nietzospannend.nl/"
+  ]
+}
