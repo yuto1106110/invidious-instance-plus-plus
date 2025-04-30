@@ -1,0 +1,29 @@
+
+name: Validate Invidious Instances
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # 毎10分にチェック
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - run: pip install requests
+
+      - run: python scripts/validate.py
+
+      - name: Commit results
+        run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add data/valid.json data/invalid.txt candidates/unverified.txt
+          git diff --cached --quiet || git commit -m "Update validated invidious instances"
+          git push
