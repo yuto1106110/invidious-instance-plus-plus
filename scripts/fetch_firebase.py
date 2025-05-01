@@ -1,6 +1,9 @@
 import requests
+import os
+from pathlib import Path
 
 FIRESTORE_URL = "https://firestore.googleapis.com/v1/projects/eviter-api/databases/(default)/documents/invidious_candidates"
+OUTPUT_FILE = Path("data/candidates.txt")
 
 def fetch_urls_from_firestore():
     try:
@@ -9,17 +12,26 @@ def fetch_urls_from_firestore():
             data = res.json()
             urls = []
             for doc in data.get("documents", []):
-                url_value = doc["fields"]["url"]["stringValue"]
-                urls.append(url_value)
+                fields = doc.get("fields", {})
+                if "url" in fields and "stringValue" in fields["url"]:
+                    urls.append(fields["url"]["stringValue"])
             return urls
         else:
-            print("Error:", res.status_code, res.text)
+            print(f"Firestore fetch failed. Status: {res.status_code}")
     except Exception as e:
-        print("Fetch error:", e)
+        print("Firebase fetch error:", e)
     return []
 
-# 書き込み
-urls = fetch_urls_from_firestore()
-if urls:
-    with open("data/candidates.txt", "w", encoding="utf-8") as f:
+def save_to_file(urls):
+    if not urls:
+        print("→ URLなし。書き込みスキップ")
+        return
+    os.makedirs(OUTPUT_FILE.parent, exist_ok=True)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(urls))
+    print(f"→ {OUTPUT_FILE} に保存完了。")
+
+# 実行
+urls = fetch_urls_from_firestore()
+print("取得URL数:", len(urls))
+save_to_file(urls)
