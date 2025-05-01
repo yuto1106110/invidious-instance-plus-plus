@@ -1,4 +1,3 @@
-
 import json
 import requests
 from pathlib import Path
@@ -25,13 +24,20 @@ if VALID_FILE.exists():
 else:
     valid_urls = base_structure.copy()
 
-# === 候補URL読み込み ===
+# === 候補URL読み込み（空でもOKにする） ===
 if not CANDIDATE_FILE.exists():
     print("候補URLファイルが見つかりません: data/candidates.json")
     exit(1)
 
-with open(CANDIDATE_FILE, "r") as f:
-    candidate_urls = json.load(f)
+candidate_urls_raw = CANDIDATE_FILE.read_text().strip()
+if not candidate_urls_raw:
+    candidate_urls = []
+else:
+    try:
+        candidate_urls = json.loads(candidate_urls_raw)
+    except json.JSONDecodeError as e:
+        print(f"JSONエラー: {e}")
+        exit(1)
 
 # === Invidious判定 ===
 def is_invidious_instance(url):
