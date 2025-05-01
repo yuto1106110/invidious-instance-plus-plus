@@ -1,38 +1,34 @@
 import requests
-from pathlib import Path
+import os
 
-# Firestore REST APIエンドポイント（自分のプロジェクトIDに変更）
-PROJECT_ID = "eviter-api"
-COLLECTION = "invidious_candidates"
-URL = f"https://firestore.googleapis.com/v1/projects/{PROJECT_ID}/databases/(default)/documents/{COLLECTION}"
+URL = "https://firestore.googleapis.com/v1/projects/eviter-api/databases/(default)/documents/invidious_candidates"
 
-OUTPUT_FILE = Path("data/candidates.txt")
-
-def fetch_from_firestore():
+def fetch_firestore_candidates():
     try:
-        res = requests.get(URL, timeout=5)
+        res = requests.get(URL, timeout=10)
+        print("Status:", res.status_code)
+        print("Response:", res.text)
         if res.status_code == 200:
             data = res.json()
             urls = []
             for doc in data.get("documents", []):
-                url_field = doc["fields"].get("url", {}).get("stringValue")
-                if url_field:
-                    urls.append(url_field)
+                url = doc["fields"]["url"]["stringValue"]
+                urls.append(url)
             return urls
-        else:
-            print("Firestore API error:", res.status_code, res.text)
     except Exception as e:
-        print("Fetch error:", e)
+        print("Error:", e)
     return []
 
-# === 実行・保存 ===
-urls = fetch_from_firestore()
-
-if urls:
-    OUTPUT_FILE.parent.mkdir(exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+def save_to_file(urls, filepath="data/candidates.txt"):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+    with open(filepath, "w") as f:
         for url in urls:
             f.write(url.strip() + "\n")
-    print(f"{len(urls)} 件のURLを data/candidates.txt に保存しました。")
-else:
-    print("FirestoreからURLを取得できませんでした。")
+    print(f"保存完了: {filepath}")
+
+if __name__ == "__main__":
+    urls = fetch_firestore_candidates()
+    if urls:
+        save_to_file(urls)
+    else:
+        print("FirestoreからURL取得できませんでした。")
