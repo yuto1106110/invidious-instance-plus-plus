@@ -3,7 +3,7 @@ name: Validate Invidious Instances
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 毎10分にチェック
+    - cron: '*/60 * * * *'  # 毎60分にチェック
   workflow_dispatch:
 
 permissions:
