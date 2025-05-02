@@ -2,17 +2,14 @@ import json
 import requests
 from pathlib import Path
 
-# === FirestoreのURL ===
-FIRESTORE_API = "https://firestore.googleapis.com/v1/projects/eviter-api/databases/(default)/documents/invidious_candidates"
-
-# === ディレクトリとファイルのパス ===
+# === ディレクトリ・ファイル準備 ===
 data_dir = Path("data")
 data_dir.mkdir(exist_ok=True)
 
 VALID_FILE = data_dir / "valid.json"
 CANDIDATE_FILE = data_dir / "candidates.txt"
 
-# === 初期構造（カテゴリごと）===
+# === 初期形式（カテゴリ別） ===
 base_structure = {
     "video": [],
     "search": [],
@@ -21,74 +18,74 @@ base_structure = {
     "comments": []
 }
 
-# === valid.json を読み込み or 初期化 ===
+# === valid.json の読み込みまたは初期化 ===
 if VALID_FILE.exists():
     try:
         valid_urls = json.loads(VALID_FILE.read_text())
-    except json.JSONDecodeError:
+    except:
         valid_urls = base_structure.copy()
 else:
     valid_urls = base_structure.copy()
 
-# === FirestoreからURL取得 ===
-def fetch_candidate_urls():
+# === Firestoreから新しいURLを取得して candidates.txt に追加 ===
+def fetch_from_firestore_and_update_candidates():
+    url = "https://firestore.googleapis.com/v1/projects/eviter-api/databases/(default)/documents/invidious_candidates"
     try:
-        res = requests.get(FIRESTORE_API)
+        res = requests.get(url, timeout=10)
         res.raise_for_status()
-        data = res.json()
-        urls = []
-        for doc in data.get("documents", []):
+        documents = res.json().get("documents", [])
+        new_urls = []
+
+        # 既存候補読み込み
+        if CANDIDATE_FILE.exists():
+            existing = {line.strip() for line in CANDIDATE_FILE.read_text().splitlines()}
+        else:
+            existing = set()
+
+        for doc in documents:
             fields = doc.get("fields", {})
-            url = fields.get("url", {}).get("stringValue", "")
-            if url:
-                urls.append(url.strip())
-        return urls
-    except Exception as e:
-        print(f"[エラー] Firestore取得失敗: {e}")
-        return []
+            raw_url = fields.get("url", {}).get("stringValue", "").strip()
+            if raw_url.startswith("http") and raw_url not in existing:
+                new_urls.append(raw_url)
 
-# === Invidiousインスタンス判定 ===
-def is_invidious_instance(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
+        if new_urls:
+            with CANDIDATE_FILE.open("a") as f:
+                for url in new_urls:
+                    f.write(url + "\n")
+            print(f"[追加] {len(new_urls)} 件を candidates.txt に追加しました。")
+        else:
+            print("[追加なし] 新しいURLはありませんでした。")
+    except Exception as e:
+        print(f"[Firestore取得エラー] {e}")
+
+# === Invidiousインスタンスか判定 ===
+def is_invidious(url):
     try:
-        r = requests.get(url + "/api/v1/stats", headers=headers, timeout=5)
-        if r.ok and r.json().get("software") == "invidious":
-            return True
-    except Exception as e:
-        print(f"[無効] {url}: {e}")
-    return False
+        r = requests.get(url.rstrip("/") + "/api/v1/stats", timeout=5)
+        return r.ok and r.json().get("software") == "invidious"
+    except:
+        return False
 
-# === 既存の候補URLを読み込み ===
-existing_candidates = set()
-if CANDIDATE_FILE.exists():
-    existing_candidates = set(line.strip() for line in CANDIDATE_FILE.read_text().splitlines())
+# === URLを検証して valid.json に追加 ===
+def validate_candidates():
+    if not CANDIDATE_FILE.exists():
+        print("candidates.txt が存在しません。")
+        return
 
-# === Firestoreから取得して新規候補のみ抽出 ===
-new_urls = fetch_candidate_urls()
-new_to_add = [url for url in new_urls if url not in existing_candidates]
+    urls = [line.strip() for line in CANDIDATE_FILE.read_text().splitlines() if line.strip()]
+    for url in urls:
+        print(f"[検証] {url} → ", end="")
+        if is_invidious(url):
+            print("Invidious")
+            for cat in valid_urls:
+                if url not in valid_urls[cat]:
+                    valid_urls[cat].append(url)
+        else:
+            print("無効")
 
-# === 候補をcandidates.txtに追加 ===
-if new_to_add:
-    with CANDIDATE_FILE.open("a") as f:
-        for url in new_to_add:
-            f.write(url + "\n")
-    print(f"→ {len(new_to_add)} 件を candidates.txt に追加")
-else:
-    print("→ 新しい候補はありません")
+    VALID_FILE.write_text(json.dumps(valid_urls, indent=2, ensure_ascii=False))
+    print("→ valid.json に保存しました。")
 
-# === 各URLをInvidiousとして検証してvalid.jsonに登録 ===
-for url in new_to_add:
-    print(f"[検証] {url} → ", end="")
-    if is_invidious_instance(url):
-        print("有効")
-        for category in valid_urls:
-            if url not in valid_urls[category]:
-                valid_urls[category].append(url)
-    else:
-        print("無効")
-
-# === valid.jsonに保存 ===
-VALID_FILE.write_text(json.dumps(valid_urls, indent=2, ensure_ascii=False))
-print("→ valid.json に保存完了")
+# === 実行 ===
+fetch_from_firestore_and_update_candidates()
+validate_candidates()
