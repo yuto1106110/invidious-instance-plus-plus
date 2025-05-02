@@ -1,3 +1,4 @@
+
 import json
 import requests
 from pathlib import Path
@@ -55,13 +56,12 @@ def fetch_from_firestore_and_update_candidates():
 
 # Invidiousか判定
 def is_invidious(url):
-    test_paths = ["/api/v1/stats", "/feed/popular", "/"]  # 複数APIを試す
+    test_paths = ["/api/v1/stats", "/feed/popular", "/"]
     for path in test_paths:
         try:
             full_url = url.rstrip("/") + path
             r = requests.get(full_url, timeout=5)
             if r.ok:
-                # statsなら software チェック、それ以外なら200で合格
                 if "stats" in path:
                     return r.json().get("software") == "invidious"
                 return True
@@ -69,7 +69,7 @@ def is_invidious(url):
             continue
     return False
 
-# 検証
+# 検証と保存
 def validate_candidates():
     if not CANDIDATE_FILE.exists():
         print("candidates.txt が存在しません。")
@@ -86,8 +86,11 @@ def validate_candidates():
         else:
             print("× 無効")
 
-    VALID_FILE.write_text(json.dumps(valid_urls, indent=2, ensure_ascii=False))
-    print("→ valid.json に保存しました。")
+    # ダブルクォート → シングルクォートに変換して保存
+    json_text = json.dumps(valid_urls, indent=2, ensure_ascii=False)
+    json_text = json_text.replace('"', "'")
+    VALID_FILE.write_text(json_text, encoding="utf-8")
+    print("→ valid.json に保存しました。（シングルクォート形式）")
 
 # 実行
 fetch_from_firestore_and_update_candidates()
