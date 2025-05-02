@@ -2,6 +2,9 @@ import json
 import requests
 from pathlib import Path
 
+# === 設定 ===
+FIRESTORE_URL = "https://firestore.googleapis.com/v1/projects/eviter-api/databases/(default)/documents/invidious_candidates"
+
 # === ディレクトリ・ファイル準備 ===
 data_dir = Path("data")
 data_dir.mkdir(exist_ok=True)
@@ -9,7 +12,41 @@ data_dir.mkdir(exist_ok=True)
 VALID_FILE = data_dir / "valid.json"
 CANDIDATE_FILE = data_dir / "candidates.txt"
 
-# === 初期形式（全カテゴリ空） ===
+# === Firestore から取得して candidates.txt に追加 ===
+def fetch_firestore_urls():
+    try:
+        res = requests.get(FIRESTORE_URL, timeout=5)
+        res.raise_for_status()
+        documents = res.json().get("documents", [])
+        return [
+            doc["fields"]["url"]["stringValue"]
+            for doc in documents
+            if "fields" in doc and "url" in doc["fields"]
+        ]
+    except Exception as e:
+        print("Firestore 取得エラー:", e)
+        return []
+
+# === 候補URL読み込み（テキスト形式：1行1URL） ===
+existing_candidates = set()
+if CANDIDATE_FILE.exists():
+    existing_candidates = set(
+        line.strip() for line in CANDIDATE_FILE.read_text().splitlines() if line.strip()
+    )
+
+# === Firestore URL 追加 ===
+firestore_urls = fetch_firestore_urls()
+new_urls = [url for url in firestore_urls if url not in existing_candidates]
+
+if new_urls:
+    with open(CANDIDATE_FILE, "a", encoding="utf-8") as f:
+        for url in new_urls:
+            f.write(url + "\n")
+    print(f"{len(new_urls)} 件のURLを candidates.txt に追加しました。")
+else:
+    print("Firestoreからの新規URLはありませんでした。")
+
+# === valid.json を読み込み or 初期化 ===
 base_structure = {
     "video": [],
     "search": [],
@@ -17,8 +54,6 @@ base_structure = {
     "playlist": [],
     "comments": []
 }
-
-# === valid.json を読み込み or 初期化 ===
 if VALID_FILE.exists():
     try:
         valid_urls = json.loads(VALID_FILE.read_text())
@@ -27,7 +62,7 @@ if VALID_FILE.exists():
 else:
     valid_urls = base_structure.copy()
 
-# === 候補URL読み込み（テキスト形式：1行1URL） ===
+# === 再度 候補URL 読み込み
 candidate_urls = []
 if CANDIDATE_FILE.exists():
     candidate_urls = [line.strip() for line in CANDIDATE_FILE.read_text().splitlines() if line.strip()]
