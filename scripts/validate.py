@@ -77,7 +77,7 @@ def validate_candidates():
 
     urls = [line.strip() for line in CANDIDATE_FILE.read_text().splitlines() if line.strip()]
     for url in urls:
-        print(f"[検証中] {url} → ", end="")
+        print(f"[検証中] {url} → ', end='')
         if is_invidious(url):
             print("有効")
             for cat in valid_urls:
