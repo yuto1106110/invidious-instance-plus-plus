@@ -1,26 +1,31 @@
 {
   'video': [
     'https://invidious.snopyta.org',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'search': [
     'https://invidious.snopyta.org',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'channel': [
     'https://invidious.snopyta.org',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'playlist': [
     'https://invidious.snopyta.org',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'comments': [
     'https://invidious.snopyta.org',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ]
