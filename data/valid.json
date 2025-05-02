@@ -1,31 +1,26 @@
 {
   'video': [
     'https://invidious.snopyta.org',
-    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'search': [
     'https://invidious.snopyta.org',
-    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'channel': [
     'https://invidious.snopyta.org',
-    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'playlist': [
     'https://invidious.snopyta.org',
-    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ],
   'comments': [
     'https://invidious.snopyta.org',
-    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/'
   ]
