@@ -1,47 +1,47 @@
 {
-  "video": [
-    "https://invidious.snopyta.org",
-    "https://iv.melmac.space/",
-    "https://siawaseok-wakame-server2.glitch.me/",
-    "https://invidious.snopyta.org/",
-    "https://piped.video/",
-    "https://piped.adminforge.de/",
-    "https://piped.kavin.rocks/"
+  'video': [
+    'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
+    'https://siawaseok-wakame-server2.glitch.me/',
+    'https://invidious.snopyta.org/',
+    'https://piped.video/',
+    'https://piped.adminforge.de/',
+    'https://piped.kavin.rocks/'
   ],
-  "search": [
-    "https://invidious.snopyta.org",
-    "https://iv.melmac.space/",
-    "https://siawaseok-wakame-server2.glitch.me/",
-    "https://invidious.snopyta.org/",
-    "https://piped.video/",
-    "https://piped.adminforge.de/",
-    "https://piped.kavin.rocks/"
+  'search': [
+    'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
+    'https://siawaseok-wakame-server2.glitch.me/',
+    'https://invidious.snopyta.org/',
+    'https://piped.video/',
+    'https://piped.adminforge.de/',
+    'https://piped.kavin.rocks/'
   ],
-  "channel": [
-    "https://invidious.snopyta.org",
-    "https://iv.melmac.space/",
-    "https://siawaseok-wakame-server2.glitch.me/",
-    "https://invidious.snopyta.org/",
-    "https://piped.video/",
-    "https://piped.adminforge.de/",
-    "https://piped.kavin.rocks/"
+  'channel': [
+    'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
+    'https://siawaseok-wakame-server2.glitch.me/',
+    'https://invidious.snopyta.org/',
+    'https://piped.video/',
+    'https://piped.adminforge.de/',
+    'https://piped.kavin.rocks/'
   ],
-  "playlist": [
-    "https://invidious.snopyta.org",
-    "https://iv.melmac.space/",
-    "https://siawaseok-wakame-server2.glitch.me/",
-    "https://invidious.snopyta.org/",
-    "https://piped.video/",
-    "https://piped.adminforge.de/",
-    "https://piped.kavin.rocks/"
+  'playlist': [
+    'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
+    'https://siawaseok-wakame-server2.glitch.me/',
+    'https://invidious.snopyta.org/',
+    'https://piped.video/',
+    'https://piped.adminforge.de/',
+    'https://piped.kavin.rocks/'
   ],
-  "comments": [
-    "https://invidious.snopyta.org",
-    "https://iv.melmac.space/",
-    "https://siawaseok-wakame-server2.glitch.me/",
-    "https://invidious.snopyta.org/",
-    "https://piped.video/",
-    "https://piped.adminforge.de/",
-    "https://piped.kavin.rocks/"
+  'comments': [
+    'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
+    'https://siawaseok-wakame-server2.glitch.me/',
+    'https://invidious.snopyta.org/',
+    'https://piped.video/',
+    'https://piped.adminforge.de/',
+    'https://piped.kavin.rocks/'
   ]
 }
