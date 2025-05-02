@@ -1,6 +1,7 @@
 {
   'video': [
     'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/',
     'https://piped.video/',
@@ -9,6 +10,7 @@
   ],
   'search': [
     'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/',
     'https://piped.video/',
@@ -17,6 +19,7 @@
   ],
   'channel': [
     'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/',
     'https://piped.video/',
@@ -25,6 +28,7 @@
   ],
   'playlist': [
     'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/',
     'https://piped.video/',
@@ -33,6 +37,7 @@
   ],
   'comments': [
     'https://invidious.snopyta.org',
+    'https://iv.melmac.space/',
     'https://siawaseok-wakame-server2.glitch.me/',
     'https://invidious.snopyta.org/',
     'https://piped.video/',
