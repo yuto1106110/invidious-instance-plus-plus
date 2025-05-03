@@ -79,7 +79,7 @@ def is_invidious(url):
 def check_category(url, endpoint):
     try:
         test_urls = {
-            "video": "/api/v1/videos/8l5yuI5P3kU",
+            "video": "/api/v1/videos/RgKAFK5djSk",
             "search": "/api/v1/search?q=test",
             "channel": "/api/v1/channels/UCBR8-60-B28hp2BmDPdntcQ",
             "playlist": "/api/v1/playlists?list=PLrEnWoR732-D67iteOI6DPdJH1opjAuJt",
