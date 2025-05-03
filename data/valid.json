@@ -1,7 +1,6 @@
 {
   'video': [],
   'search': [
-    'https://id.420129.xyz/',
     'https://redirect.invidious.io/',
     'https://invidious.snopyta.org',
     'https://iv.ggtyler.dev/',
@@ -29,7 +28,6 @@
     'https://pol1.iv.ggtyler.dev'
   ],
   'channel': [
-    'https://id.420129.xyz/',
     'https://redirect.invidious.io/',
     'https://invidious.snopyta.org',
     'https://iv.ggtyler.dev/',
