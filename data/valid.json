@@ -29,6 +29,7 @@
     'https://pol1.iv.ggtyler.dev'
   ],
   'channel': [
+    'https://id.420129.xyz/',
     'https://redirect.invidious.io/',
     'https://invidious.snopyta.org',
     'https://iv.ggtyler.dev/',
@@ -89,7 +90,6 @@
     'https://redirect.invidious.io/',
     'https://invidious.snopyta.org',
     'https://invidious.einfachzocken.eu/',
-    'https://invidious.tiekoetter.com/',
     'https://inv.riverside.rocks/',
     'https://invidious.site/'
   ]
