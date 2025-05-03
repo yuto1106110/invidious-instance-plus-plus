@@ -1,11 +1,14 @@
 {
   'video': [
-    'https://iv.ggtyler.dev/',
     'https://invidious.lunivers.trade/',
     'https://nyc1.iv.ggtyler.dev/',
     'https://lekker.gay/',
+    'https://pol1.iv.ggtyler.dev/',
+    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://invidious.f5.si/',
+    'https://youtube.alt.tyil.nl/',
+    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev'
   ],
   'search': [
@@ -18,9 +21,9 @@
     'https://iv.duti.dev/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
+    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://invid-api.poketube.fun/',
-    'https://invidious.f5.si/',
     'https://cal1.iv.ggtyler.dev/',
     'https://invidious.einfachzocken.eu/',
     'https://y.com.sb/',
@@ -36,6 +39,7 @@
     'https://pol1.iv.ggtyler.dev'
   ],
   'channel': [
+    'https://id.420129.xyz/',
     'https://redirect.invidious.io/',
     'https://invidious.snopyta.org',
     'https://iv.ggtyler.dev/',
@@ -45,7 +49,7 @@
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
-    'https://invid-api.poketube.fun/',
+    'https://iv.melmac.space/',
     'https://invidious.f5.si/',
     'https://cal1.iv.ggtyler.dev/',
     'https://invidious.einfachzocken.eu/',
@@ -57,7 +61,6 @@
     'https://inv.riverside.rocks/',
     'https://invidious.site/',
     'https://yt.artemislena.eu/',
-    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev'
   ],
   'playlist': [
