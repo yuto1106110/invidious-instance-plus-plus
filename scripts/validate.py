@@ -75,7 +75,7 @@ def is_invidious(url):
 
     return False
 
-# APIの動作確認（カテゴリ別）
+# APIの動作確認（videoカテゴリは強化）
 def check_category(url, endpoint):
     try:
         test_urls = {
@@ -86,8 +86,20 @@ def check_category(url, endpoint):
             "comments": "/api/v1/comments/8l5yuI5P3kU"
         }
         full_url = url.rstrip("/") + test_urls[endpoint]
-        r = requests.get(full_url, timeout=5)
-        return r.ok and r.status_code == 200
+        r = requests.get(full_url, timeout=7)
+
+        if endpoint == "video":
+            if not r.ok:
+                return False
+            try:
+                data = r.json()
+                if "title" in data and ("hlsUrl" in data or "formatStreams" in data or "adaptiveFormats" in data):
+                    return True
+            except:
+                return False
+            return False
+        else:
+            return r.ok and r.status_code == 200
     except:
         return False
 
@@ -113,7 +125,6 @@ def validate_candidates():
             else:
                 print("失敗")
 
-    # ダブルクォート → シングルクォートに変換して保存
     json_text = json.dumps(valid_urls, indent=2, ensure_ascii=False)
     json_text = json_text.replace('"', "'")
     VALID_FILE.write_text(json_text, encoding="utf-8")
