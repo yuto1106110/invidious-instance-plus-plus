@@ -1,14 +1,16 @@
 {
   'video': [
+    'https://iv.ggtyler.dev/',
     'https://invidious.lunivers.trade/',
     'https://nyc1.iv.ggtyler.dev/',
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
-    'https://invid-api.poketube.fun/',
     'https://invidious.f5.si/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev'
+    'https://cal1.iv.ggtyler.dev/',
+    'https://youtube.alt.tyil.nl/',
+    'https://invidious.baczek.me/',
+    'https://invid-api.poketube.fun'
   ],
   'search': [
     'https://redirect.invidious.io/',
@@ -23,7 +25,6 @@
     'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://invid-api.poketube.fun/',
-    'https://invidious.f5.si/',
     'https://cal1.iv.ggtyler.dev/',
     'https://invidious.einfachzocken.eu/',
     'https://y.com.sb/',
@@ -35,8 +36,7 @@
     'https://inv.riverside.rocks/',
     'https://invidious.site/',
     'https://yt.artemislena.eu/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev'
+    'https://invid-api.poketube.fun'
   ],
   'channel': [
     'https://redirect.invidious.io/',
@@ -48,8 +48,6 @@
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
-    'https://iv.melmac.space/',
-    'https://invid-api.poketube.fun/',
     'https://invidious.f5.si/',
     'https://cal1.iv.ggtyler.dev/',
     'https://invidious.einfachzocken.eu/',
@@ -61,8 +59,7 @@
     'https://inv.riverside.rocks/',
     'https://invidious.site/',
     'https://yt.artemislena.eu/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev'
+    'https://invid-api.poketube.fun'
   ],
   'playlist': [
     'https://id.420129.xyz/',
@@ -92,8 +89,7 @@
     'https://inv.riverside.rocks/',
     'https://invidious.site/',
     'https://yt.artemislena.eu/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev'
+    'https://invid-api.poketube.fun'
   ],
   'comments': [
     'https://redirect.invidious.io/',
