@@ -1,11 +1,13 @@
 {
   'video': [
     'https://iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
     'https://nyc1.iv.ggtyler.dev/',
-    'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://invidious.f5.si/',
-    'https://yt.artemislena.eu/',
+    'https://youtube.alt.tyil.nl/',
+    'https://invidious.baczek.me/',
+    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev'
   ],
   'search': [
@@ -18,7 +20,6 @@
     'https://iv.duti.dev/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://invid-api.poketube.fun/',
     'https://cal1.iv.ggtyler.dev/',
@@ -45,6 +46,7 @@
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://invidious.f5.si/',
     'https://cal1.iv.ggtyler.dev/',
@@ -75,7 +77,6 @@
     'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://invid-api.poketube.fun/',
-    'https://invidious.f5.si/',
     'https://cal1.iv.ggtyler.dev/',
     'https://invidious.einfachzocken.eu/',
     'https://y.com.sb/',
