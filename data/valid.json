@@ -5,25 +5,25 @@
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://invidious.f5.si/',
-    'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun'
+    'https://invid-api.poketube.fun',
+    'https://pol1.iv.ggtyler.dev'
   ],
   'search': [
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
-    'https://youtube.alt.tyil.nl/',
-    'https://invid-api.poketube.fun'
+    'https://invid-api.poketube.fun',
+    'https://pol1.iv.ggtyler.dev'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://invidious.f5.si/',
-    'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun'
+    'https://invid-api.poketube.fun',
+    'https://pol1.iv.ggtyler.dev'
   ],
   'playlist': [],
   'comments': [
@@ -32,8 +32,8 @@
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://invidious.f5.si/',
-    'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun'
+    'https://invid-api.poketube.fun',
+    'https://pol1.iv.ggtyler.dev'
   ]
 }
