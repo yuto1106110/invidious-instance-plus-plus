@@ -83,7 +83,7 @@ def check_category(url, endpoint):
             "search": "/api/v1/search?q=test",
             "channel": "/api/v1/channels/UCBR8-60-B28hp2BmDPdntcQ",
             "playlist": "/api/v1/playlists?list=PLrEnWoR732-D67iteOI6DPdJH1opjAuJt",
-            "comments": "/api/v1/comments/8l5yuI5P3kU"
+            "comments": "/api/v1/comments/RgKAFK5djSk"
         }
         full_url = url.rstrip("/") + test_urls[endpoint]
         r = requests.get(full_url, timeout=7)
