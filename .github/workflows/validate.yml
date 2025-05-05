@@ -3,7 +3,7 @@ name: Validate Invidious Instances
 
 on:
   schedule:
-    - cron: '*/180 * * * *'  # 毎180分にチェック
+    - cron: '*/60 * * * *'  # 毎60分にチェック
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   validate:
-    runs-on: ubuntu-latest18
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
