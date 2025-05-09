@@ -1,16 +1,17 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
+    'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
-    'https://youtube.alt.tyil.nl/',
     'https://pol1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
     'https://cal1.iv.ggtyler.dev'
   ],
   'search': [
+    'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
@@ -21,6 +22,7 @@
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
+    'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
@@ -31,6 +33,7 @@
   'playlist': [],
   'comments': [
     'https://invidious.lunivers.trade/',
+    'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
