@@ -1,42 +1,38 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
     'https://rust.oskamp.nl/',
+    'https://invid-api.poketube.fun/',
     'https://invidious.f5.si/',
-    'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://inv.vern.cc/',
     'https://yt.artemislena.eu/',
-    'https://nyc1.iv.ggtyler.dev',
+    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev',
     'https://yt.artemislena.eu',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev'
+    'https://iv.ggtyler.dev'
   ],
   'search': [
-    'https://nyc1.iv.ggtyler.dev/',
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
     'https://rust.oskamp.nl/',
-    'https://cal1.iv.ggtyler.dev/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.baczek.me/',
     'https://inv.vern.cc/',
     'https://yt.artemislena.eu/',
+    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev',
     'https://yt.artemislena.eu',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev'
+    'https://rust.oskamp.nl'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
@@ -44,18 +40,17 @@
     'https://lekker.gay/',
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
-    'https://invidious.f5.si/',
-    'https://cal1.iv.ggtyler.dev/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://inv.vern.cc/',
     'https://yt.artemislena.eu/',
+    'https://invid-api.poketube.fun',
+    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
     'https://yt.artemislena.eu',
-    'https://invidious.lunivers.trade',
-    'https://iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev'
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [],
   'comments': [
@@ -65,17 +60,18 @@
     'https://pol1.iv.ggtyler.dev/',
     'https://youtube.mosesmang.com/',
     'https://rust.oskamp.nl/',
+    'https://invid-api.poketube.fun/',
     'https://invidious.f5.si/',
-    'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://inv.vern.cc/',
     'https://yt.artemislena.eu/',
+    'https://invid-api.poketube.fun',
+    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
     'https://yt.artemislena.eu',
     'https://invidious.lunivers.trade',
-    'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev'
+    'https://rust.oskamp.nl'
   ]
 }
