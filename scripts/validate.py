@@ -82,7 +82,7 @@ def check_category(url, endpoint):
             "video": "/api/v1/videos/RgKAFK5djSk",
             "search": "/api/v1/search?q=test",
             "channel": "/api/v1/channels/UCBR8-60-B28hp2BmDPdntcQ",
-            "playlist": "/api/v1/playlists?list=PLrEnWoR732-D67iteOI6DPdJH1opjAuJt",
+            "playlist": "/api/v1/playlists/PLrEnWoR732-D67iteOI6DPdJH1opjAuJt",
             "comments": "/api/v1/comments/RgKAFK5djSk"
         }
         full_url = url.rstrip("/") + test_urls[endpoint]
@@ -96,7 +96,7 @@ def check_category(url, endpoint):
         elif endpoint == "comments":
             return isinstance(data, dict) and "comments" in data and len(data["comments"]) > 0
         else:
-            return True
+            return True  # search, channel, playlist はレスポンス成功ならOK
     except:
         return False
 
