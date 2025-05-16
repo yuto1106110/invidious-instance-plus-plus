@@ -1,27 +1,27 @@
 {
   'video': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev'
   ],
   'search': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev'
   ],
   'channel': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev'
   ],
   'playlist': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev'
   ],
   'comments': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev'
   ]
 }
