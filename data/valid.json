@@ -4,31 +4,34 @@
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ],
   'search': [
     'https://lekker.gay/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ],
   'channel': [
     'https://lekker.gay/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/'
+    'https://inv.antopie.org/',
+    'https://iv.ggtyler.dev'
   ],
   'playlist': [
     'https://lekker.gay/',
-    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://rust.oskamp.nl'
+    'https://iv.ggtyler.dev'
   ],
   'comments': [
     'https://lekker.gay/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ]
 }
