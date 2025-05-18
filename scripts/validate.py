@@ -15,7 +15,7 @@ base_structure = {
     "comments": []
 }
 
-# valid.jsonの初期読み込み
+# valid.json読み込み
 if VALID_FILE.exists():
     try:
         valid_urls = json.loads(VALID_FILE.read_text())
@@ -24,7 +24,7 @@ if VALID_FILE.exists():
 else:
     valid_urls = base_structure.copy()
 
-# Firestoreから新規取得
+# Firestoreから取得
 def fetch_from_firestore_and_update_candidates():
     url = "https://firestore.googleapis.com/v1/projects/eviter-api/databases/(default)/documents/invidious_candidates"
     try:
@@ -49,89 +49,63 @@ def fetch_from_firestore_and_update_candidates():
                     f.write(url + "\n")
             print(f"[追加] {len(new_urls)} 件追加")
         else:
-            print("[追加なし] 新しいURLはありません")
+            print("[追加なし]")
     except Exception as e:
         print(f"[Firestore取得エラー] {e}")
 
-# 柔軟にInvidiousインスタンス判定
-def is_invidious(url):
+# 再生できるか確認
+def is_playable_video(url):
     try:
-        stats_url = url.rstrip("/") + "/api/v1/stats"
-        r = requests.get(stats_url, timeout=5)
-        if r.ok and r.headers.get("content-type", "").startswith("application/json"):
-            data = r.json()
-            if "version" in data or "software" in data or "totalVideos" in data:
-                return True
+        res = requests.get(url.rstrip("/") + "/api/v1/videos/RgKAFK5djSk", timeout=5)
+        if not res.ok:
+            return False
+        data = res.json()
+        for key in ['formatStreams', 'adaptiveFormats', 'videoStreams']:
+            if key in data and isinstance(data[key], list) and len(data[key]) > 0:
+                if 'url' in data[key][0]:
+                    stream_url = data[key][0]['url']
+                    video_res = requests.get(stream_url, timeout=3)
+                    return 'video' in video_res.headers.get("Content-Type", "")
+        if 'hlsUrl' in data:
+            video_res = requests.get(data['hlsUrl'], timeout=3)
+            return 'video' in video_res.headers.get("Content-Type", "")
     except:
-        pass
-
-    try:
-        feed_url = url.rstrip("/") + "/feed/popular"
-        r = requests.get(feed_url, timeout=5)
-        if r.ok and "Invidious" in r.text:
-            return True
-    except:
-        pass
-
+        return False
     return False
 
-# 各カテゴリのAPIチェック（video / comments は内容チェック付き）
-def check_category(url, endpoint):
+# コメント取得できるか
+def has_comments(url):
     try:
-        test_urls = {
-            "video": "/api/v1/videos/RgKAFK5djSk",
-            "search": "/api/v1/search?q=test",
-            "channel": "/api/v1/channels/UCBR8-60-B28hp2BmDPdntcQ",
-            "playlist": "/api/v1/playlists/PLrEnWoR732-D67iteOI6DPdJH1opjAuJt",
-            "comments": "/api/v1/comments/RgKAFK5djSk"
-        }
-        full_url = url.rstrip("/") + test_urls[endpoint]
-        r = requests.get(full_url, timeout=7)
-        if not r.ok:
-            return False
-
-        data = r.json()
-        if endpoint == "video":
-            return "title" in data and ("hlsUrl" in data or "formatStreams" in data or "adaptiveFormats" in data)
-        elif endpoint == "comments":
-            return isinstance(data, dict) and "comments" in data and len(data["comments"]) > 0
-        else:
-            return True  # search, channel, playlist はレスポンス成功ならOK
+        res = requests.get(url.rstrip("/") + "/api/v1/comments/RgKAFK5djSk", timeout=5)
+        data = res.json()
+        return isinstance(data, dict) and "comments" in data and len(data["comments"]) > 0
     except:
         return False
 
-# 候補検証と保存
+# 検証と保存
 def validate_candidates():
     if not CANDIDATE_FILE.exists():
         print("candidates.txt が存在しません。")
         return
 
     urls = [line.strip() for line in CANDIDATE_FILE.read_text().splitlines() if line.strip()]
-    filtered_urls = []
-
     for url in urls:
         print(f"[検証中] {url}")
-        if not is_invidious(url):
-            print("  → Invidiousではありません（除外）")
-            continue
-
-        video_ok = check_category(url, "video")
-        comments_ok = check_category(url, "comments")
+        video_ok = is_playable_video(url)
+        comments_ok = has_comments(url)
 
         if video_ok and comments_ok:
-            print("  → video/comments OK → 採用")
-            filtered_urls.append(url)
+            print("  → 動画・コメントOK → 採用")
             for cat in base_structure:
-                if check_category(url, cat):
-                    if url not in valid_urls[cat]:
-                        valid_urls[cat].append(url)
+                if url not in valid_urls[cat]:
+                    valid_urls[cat].append(url)
         else:
-            print(f"  → video:{video_ok}, comments:{comments_ok} → 除外")
+            print(f"  → 動画: {video_ok}, コメント: {comments_ok} → 除外")
 
     json_text = json.dumps(valid_urls, indent=2, ensure_ascii=False)
     json_text = json_text.replace('"', "'")
     VALID_FILE.write_text(json_text, encoding="utf-8")
-    print("→ valid.json に保存しました（video + comments 検証済）")
+    print("→ valid.json に保存しました（動画＋コメント再生確認済み）")
 
 # 実行
 fetch_from_firestore_and_update_candidates()
