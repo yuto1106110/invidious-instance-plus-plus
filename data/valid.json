@@ -1,48 +1,43 @@
 {
   'video': [
-    'https://pol1.iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
-    'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://pol1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev'
+    'https://invidious.lunivers.trade',
+    'https://rust.oskamp.nl'
   ],
   'search': [
-    'https://pol1.iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
-    'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://pol1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev'
+    'https://invidious.lunivers.trade',
+    'https://rust.oskamp.nl'
   ],
   'channel': [
-    'https://pol1.iv.ggtyler.dev/',
-    'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev'
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [
-    'https://pol1.iv.ggtyler.dev/',
-    'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
+    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev'
+    'https://invidious.lunivers.trade',
+    'https://rust.oskamp.nl'
   ],
   'comments': [
-    'https://pol1.iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
-    'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://pol1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev'
+    'https://invidious.lunivers.trade',
+    'https://rust.oskamp.nl'
   ]
 }
