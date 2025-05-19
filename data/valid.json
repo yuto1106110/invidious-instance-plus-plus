@@ -1,29 +1,24 @@
 {
   'video': [
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl'
   ],
   'search': [
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://rust.oskamp.nl'
   ],
   'channel': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/'
   ],
   'playlist': [
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/',
-    'https://rust.oskamp.nl'
+    'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/'
   ],
   'comments': [
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
