@@ -1,38 +1,36 @@
 {
   'video': [
     'https://lekker.gay/',
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl'
   ],
   'search': [
     'https://lekker.gay/',
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://rust.oskamp.nl'
   ],
   'channel': [
     'https://lekker.gay/',
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/'
+    'https://inv.antopie.org/',
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [
     'https://lekker.gay/',
-    'https://iv.melmac.space/',
-    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/'
+    'https://inv.antopie.org/',
+    'https://invidious.lunivers.trade'
   ],
   'comments': [
     'https://lekker.gay/',
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl'
   ]
 }
