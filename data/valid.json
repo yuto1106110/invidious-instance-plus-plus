@@ -4,7 +4,6 @@
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl'
   ],
   'search': [
@@ -16,20 +15,18 @@
   'channel': [
     'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
+    'https://inv.antopie.org/'
   ],
   'playlist': [
     'https://iv.melmac.space/',
     'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
+    'https://rust.oskamp.nl'
   ],
   'comments': [
     'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl'
   ]
 }
