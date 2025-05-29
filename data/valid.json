@@ -1,40 +1,32 @@
 {
   'video': [
+    'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
-    'https://pol1.iv.ggtyler.dev/',
-    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev'
+    'https://invidious.lunivers.trade',
+    'https://rust.oskamp.nl'
   ],
   'search': [
     'https://lekker.gay/',
-    'https://pol1.iv.ggtyler.dev/',
-    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev'
+    'https://rust.oskamp.nl'
   ],
   'channel': [
+    'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
-    'https://pol1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
-    'https://iv.ggtyler.dev'
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [],
   'comments': [
+    'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
-    'https://pol1.iv.ggtyler.dev/',
-    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
     'https://iv.ggtyler.dev'
   ]
