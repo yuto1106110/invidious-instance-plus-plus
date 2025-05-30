@@ -1,18 +1,13 @@
 {
   'video': [
     'https://pol1.iv.ggtyler.dev/',
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev'
+    'https://rust.oskamp.nl'
   ],
   'search': [
-    'https://nyc1.iv.ggtyler.dev/',
     'https://pol1.iv.ggtyler.dev/',
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://pol1.iv.ggtyler.dev',
@@ -20,9 +15,7 @@
     'https://iv.ggtyler.dev'
   ],
   'channel': [
-    'https://nyc1.iv.ggtyler.dev/',
     'https://pol1.iv.ggtyler.dev/',
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://pol1.iv.ggtyler.dev'
   ],
@@ -30,10 +23,10 @@
   'comments': [
     'https://nyc1.iv.ggtyler.dev/',
     'https://pol1.iv.ggtyler.dev/',
-    'https://iv.melmac.space/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://pol1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ]
 }
