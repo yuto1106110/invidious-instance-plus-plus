@@ -1,41 +1,39 @@
 {
   'video': [
+    'https://invidious.lunivers.trade/',
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl'
   ],
   'search': [
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev',
     'https://rust.oskamp.nl'
   ],
   'channel': [
+    'https://invidious.lunivers.trade/',
     'https://pol1.iv.ggtyler.dev/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev'
+    'https://pol1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [],
   'comments': [
+    'https://invidious.lunivers.trade/',
     'https://pol1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl'
   ]
 }
