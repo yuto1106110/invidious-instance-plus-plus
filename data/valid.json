@@ -2,6 +2,7 @@
   'video': [
     'https://lekker.gay/',
     'https://rust.oskamp.nl/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invid-api.poketube.fun',
@@ -10,6 +11,7 @@
   'search': [
     'https://lekker.gay/',
     'https://rust.oskamp.nl/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invid-api.poketube.fun',
@@ -17,6 +19,7 @@
   ],
   'channel': [
     'https://lekker.gay/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invid-api.poketube.fun'
@@ -25,6 +28,7 @@
   'comments': [
     'https://lekker.gay/',
     'https://rust.oskamp.nl/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invid-api.poketube.fun',
