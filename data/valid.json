@@ -3,6 +3,7 @@
     'https://rust.oskamp.nl/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invid-api.poketube.fun',
     'https://rust.oskamp.nl'
   ],
@@ -10,12 +11,14 @@
     'https://rust.oskamp.nl/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invid-api.poketube.fun',
     'https://rust.oskamp.nl'
   ],
   'channel': [
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invid-api.poketube.fun'
   ],
   'playlist': [],
@@ -23,6 +26,7 @@
     'https://rust.oskamp.nl/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invid-api.poketube.fun',
     'https://rust.oskamp.nl'
   ]
