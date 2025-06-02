@@ -1,12 +1,14 @@
 {
   'video': [
     'https://lekker.gay/',
+    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl'
   ],
   'search': [
     'https://lekker.gay/',
+    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl'
@@ -19,6 +21,7 @@
   'playlist': [],
   'comments': [
     'https://lekker.gay/',
+    'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl'
