@@ -1,37 +1,25 @@
 {
   'video': [
     'https://rust.oskamp.nl/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev',
     'https://rust.oskamp.nl'
   ],
   'search': [
     'https://rust.oskamp.nl/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev',
     'https://rust.oskamp.nl'
   ],
   'channel': [
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev'
+    'https://inv.antopie.org/'
   ],
   'playlist': [],
   'comments': [
     'https://rust.oskamp.nl/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invid-api.poketube.fun',
-    'https://pol1.iv.ggtyler.dev',
     'https://rust.oskamp.nl'
   ]
 }
