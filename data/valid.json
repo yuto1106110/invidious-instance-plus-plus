@@ -4,12 +4,14 @@
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.lunivers.trade',
+    'https://rust.oskamp.nl'
   ],
   'search': [
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/'
+    'https://inv.antopie.org/',
+    'https://rust.oskamp.nl'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
@@ -23,6 +25,7 @@
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.lunivers.trade',
+    'https://rust.oskamp.nl'
   ]
 }
