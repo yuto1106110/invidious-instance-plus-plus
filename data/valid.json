@@ -1,19 +1,25 @@
 {
   'video': [
+    'https://invidious.lunivers.trade/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/'
+    'https://inv.antopie.org/',
+    'https://invidious.lunivers.trade'
   ],
   'search': [
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/'
   ],
   'channel': [
+    'https://invidious.lunivers.trade/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/'
+    'https://inv.antopie.org/',
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [],
   'comments': [
+    'https://invidious.lunivers.trade/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/'
+    'https://inv.antopie.org/',
+    'https://invidious.lunivers.trade'
   ]
 }
