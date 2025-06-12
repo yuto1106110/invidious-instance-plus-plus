@@ -1,6 +1,5 @@
 {
   'video': [
-    'https://lekker.gay/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
@@ -9,7 +8,6 @@
     'https://cal1.iv.ggtyler.dev'
   ],
   'search': [
-    'https://lekker.gay/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
@@ -18,14 +16,12 @@
     'https://cal1.iv.ggtyler.dev'
   ],
   'channel': [
-    'https://lekker.gay/',
     'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://cal1.iv.ggtyler.dev'
   ],
   'playlist': [
-    'https://lekker.gay/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
@@ -34,7 +30,6 @@
     'https://cal1.iv.ggtyler.dev'
   ],
   'comments': [
-    'https://lekker.gay/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
