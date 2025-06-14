@@ -6,16 +6,14 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.lunivers.trade',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev'
+    'https://rust.oskamp.nl'
   ],
   'search': [
     'https://lekker.gay/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev'
+    'https://rust.oskamp.nl'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
@@ -40,7 +38,6 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.lunivers.trade',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev'
+    'https://rust.oskamp.nl'
   ]
 }
