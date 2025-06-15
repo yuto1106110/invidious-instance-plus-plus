@@ -4,7 +4,6 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev'
   ],
   'search': [
@@ -12,13 +11,11 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev'
   ],
   'channel': [
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev'
   ],
   'playlist': [
@@ -26,7 +23,6 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev'
   ],
   'comments': [
@@ -34,7 +30,6 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev'
   ]
 }
