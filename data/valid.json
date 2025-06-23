@@ -5,19 +5,22 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.lunivers.trade',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ],
   'search': [
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.lunivers.trade',
+    'https://iv.ggtyler.dev'
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
@@ -25,7 +28,8 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.lunivers.trade',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ],
   'comments': [
     'https://invidious.lunivers.trade/',
@@ -33,6 +37,7 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.lunivers.trade',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ]
 }
