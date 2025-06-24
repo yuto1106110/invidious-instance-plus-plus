@@ -3,18 +3,18 @@
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
-    'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev'
+    'https://nyc1.iv.ggtyler.dev',
+    'https://rust.oskamp.nl'
   ],
   'search': [
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ],
   'channel': [
-    'https://nyc1.iv.ggtyler.dev/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev'
@@ -24,10 +24,10 @@
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
-    'https://rust.oskamp.nl'
+    'https://rust.oskamp.nl',
+    'https://iv.ggtyler.dev'
   ],
   'comments': [
-    'https://nyc1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
