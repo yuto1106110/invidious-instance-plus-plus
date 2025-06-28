@@ -4,24 +4,20 @@
     'https://rust.oskamp.nl/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://rust.oskamp.nl/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://rust.oskamp.nl'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
@@ -30,10 +26,8 @@
     'https://rust.oskamp.nl/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'comments': [
@@ -41,10 +35,8 @@
     'https://rust.oskamp.nl/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ]
 }
