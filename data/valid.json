@@ -1,9 +1,11 @@
 {
   'video': [
+    'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
     'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
@@ -17,26 +19,31 @@
     'https://iv.ggtyler.dev'
   ],
   'channel': [
+    'https://invidious.lunivers.trade/',
     'https://invidious.schenkel.eti.br/',
-    'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
+    'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
     'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'comments': [
+    'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
     'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
