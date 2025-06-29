@@ -1,12 +1,9 @@
 {
   'video': [
     'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://rust.oskamp.nl',
-    'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
@@ -14,21 +11,17 @@
     'https://nyc1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://rust.oskamp.nl',
     'https://iv.ggtyler.dev'
   ],
   'channel': [
     'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
-    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
     'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
@@ -38,7 +31,6 @@
   ],
   'comments': [
     'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://rust.oskamp.nl/',
     'https://inv.antopie.org/',
     'https://nyc1.iv.ggtyler.dev',
