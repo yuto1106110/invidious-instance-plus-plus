@@ -2,15 +2,16 @@
   'video': [
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://rust.oskamp.nl',
@@ -18,6 +19,7 @@
   ],
   'channel': [
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://cal1.iv.ggtyler.dev',
@@ -26,6 +28,7 @@
   'playlist': [
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://rust.oskamp.nl',
@@ -35,10 +38,10 @@
   'comments': [
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ]
 }
