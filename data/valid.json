@@ -3,46 +3,60 @@
     'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev'
+    'https://cal1.iv.ggtyler.dev',
+    'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
     'https://rust.oskamp.nl',
     'https://cal1.iv.ggtyler.dev'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
-    'https://cal1.iv.ggtyler.dev'
+    'https://cal1.iv.ggtyler.dev',
+    'https://invidious.nikkosphere.com'
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev'
+    'https://cal1.iv.ggtyler.dev',
+    'https://invidious.nikkosphere.com'
   ],
   'comments': [
     'https://invidious.lunivers.trade/',
     'https://rust.oskamp.nl/',
     'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://rust.oskamp.nl',
-    'https://cal1.iv.ggtyler.dev'
+    'https://cal1.iv.ggtyler.dev',
+    'https://invidious.nikkosphere.com'
   ]
 }
