@@ -1,39 +1,56 @@
 {
   'video': [
     'https://iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
+    'https://cal1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
+    'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://iv.ggtyler.dev/',
+    'https://cal1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
-    'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev'
   ],
   'channel': [
     'https://iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
+    'https://cal1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
+    'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
     'https://iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
+    'https://cal1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
   ],
   'comments': [
     'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
+    'https://invidious.lunivers.trade/',
+    'https://cal1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
     'https://nyc1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
     'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.nikkosphere.com'
