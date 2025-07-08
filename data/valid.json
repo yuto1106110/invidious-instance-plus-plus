@@ -2,26 +2,34 @@
   'video': [
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://invidious.baczek.me/'
+    'https://invidious.baczek.me/',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://iv.ggtyler.dev'
   ],
   'search': [
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://invidious.baczek.me/'
+    'https://invidious.baczek.me/',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://iv.ggtyler.dev'
   ],
   'channel': [
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://invidious.baczek.me/'
+    'https://invidious.baczek.me/',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://iv.ggtyler.dev'
   ],
   'playlist': [
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://invidious.baczek.me/'
+    'https://invidious.baczek.me/',
+    'https://iv.ggtyler.dev'
   ],
   'comments': [
     'https://invidious.schenkel.eti.br/',
     'https://inv.antopie.org/',
-    'https://invidious.baczek.me/'
+    'https://invidious.baczek.me/',
+    'https://iv.ggtyler.dev'
   ]
 }
