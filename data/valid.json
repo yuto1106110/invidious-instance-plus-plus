@@ -1,39 +1,32 @@
 {
   'video': [
-    'https://iv.ggtyler.dev/',
-    'https://pol1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
-    'https://pol1.iv.ggtyler.dev'
+    'https://nyc1.iv.ggtyler.dev',
+    'https://iv.ggtyler.dev'
   ],
   'search': [
-    'https://iv.ggtyler.dev/',
-    'https://pol1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
-    'https://pol1.iv.ggtyler.dev'
+    'https://nyc1.iv.ggtyler.dev',
+    'https://iv.ggtyler.dev'
   ],
   'channel': [
-    'https://iv.ggtyler.dev/',
-    'https://pol1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
-    'https://pol1.iv.ggtyler.dev'
+    'https://nyc1.iv.ggtyler.dev',
+    'https://iv.ggtyler.dev'
   ],
   'playlist': [
-    'https://iv.ggtyler.dev/',
-    'https://pol1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
-    'https://pol1.iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev'
   ],
   'comments': [
-    'https://iv.ggtyler.dev/',
-    'https://pol1.iv.ggtyler.dev/',
     'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
-    'https://pol1.iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://iv.ggtyler.dev'
   ]
 }
