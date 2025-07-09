@@ -1,6 +1,55 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
+    'https://nyc1.iv.ggtyler.dev/',
+    'https://pol1.iv.ggtyler.dev/',
+    'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
+    'https://inv.antopie.org/',
+    'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
+    'https://iv.ggtyler.dev',
+    'https://cal1.iv.ggtyler.dev'
+  ],
+  'search': [
+    'https://nyc1.iv.ggtyler.dev/',
+    'https://pol1.iv.ggtyler.dev/',
+    'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
+    'https://inv.antopie.org/',
+    'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
+    'https://iv.ggtyler.dev',
+    'https://cal1.iv.ggtyler.dev'
+  ],
+  'channel': [
+    'https://invidious.lunivers.trade/',
+    'https://nyc1.iv.ggtyler.dev/',
+    'https://pol1.iv.ggtyler.dev/',
+    'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
+    'https://inv.antopie.org/',
+    'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
+    'https://cal1.iv.ggtyler.dev'
+  ],
+  'playlist': [
+    'https://invidious.lunivers.trade/',
+    'https://nyc1.iv.ggtyler.dev/',
+    'https://pol1.iv.ggtyler.dev/',
+    'https://cal1.iv.ggtyler.dev/',
+    'https://invidious.schenkel.eti.br/',
+    'https://inv.antopie.org/',
+    'https://invidious.baczek.me/',
+    'https://pol1.iv.ggtyler.dev',
+    'https://invidious.lunivers.trade',
+    'https://cal1.iv.ggtyler.dev'
+  ],
+  'comments': [
+    'https://invidious.lunivers.trade/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://pol1.iv.ggtyler.dev/',
     'https://cal1.iv.ggtyler.dev/',
     'https://invidious.schenkel.eti.br/',
@@ -10,52 +59,6 @@
     'https://pol1.iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev'
-  ],
-  'search': [
-    'https://pol1.iv.ggtyler.dev/',
-    'https://cal1.iv.ggtyler.dev/',
-    'https://invidious.schenkel.eti.br/',
-    'https://inv.antopie.org/',
-    'https://invidious.baczek.me/',
-    'https://nyc1.iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev'
-  ],
-  'channel': [
-    'https://invidious.lunivers.trade/',
-    'https://pol1.iv.ggtyler.dev/',
-    'https://cal1.iv.ggtyler.dev/',
-    'https://invidious.schenkel.eti.br/',
-    'https://inv.antopie.org/',
-    'https://invidious.baczek.me/',
-    'https://nyc1.iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://invidious.lunivers.trade',
-    'https://cal1.iv.ggtyler.dev'
-  ],
-  'playlist': [
-    'https://invidious.lunivers.trade/',
-    'https://pol1.iv.ggtyler.dev/',
-    'https://cal1.iv.ggtyler.dev/',
-    'https://invidious.schenkel.eti.br/',
-    'https://inv.antopie.org/',
-    'https://invidious.baczek.me/',
-    'https://nyc1.iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://invidious.lunivers.trade',
-    'https://cal1.iv.ggtyler.dev'
-  ],
-  'comments': [
-    'https://invidious.lunivers.trade/',
-    'https://pol1.iv.ggtyler.dev/',
-    'https://cal1.iv.ggtyler.dev/',
-    'https://invidious.schenkel.eti.br/',
-    'https://inv.antopie.org/',
-    'https://invidious.baczek.me/',
-    'https://nyc1.iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://invidious.lunivers.trade',
     'https://cal1.iv.ggtyler.dev'
   ]
 }
