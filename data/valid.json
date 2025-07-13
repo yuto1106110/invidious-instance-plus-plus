@@ -1,6 +1,8 @@
 {
   'video': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
+    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
@@ -13,6 +15,7 @@
     'https://invidious.nikkosphere.com'
   ],
   'search': [
+    'https://iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
@@ -22,6 +25,7 @@
     'https://iv.ggtyler.dev/'
   ],
   'channel': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
@@ -34,6 +38,7 @@
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
@@ -46,7 +51,9 @@
     'https://invidious.nikkosphere.com'
   ],
   'comments': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
+    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
