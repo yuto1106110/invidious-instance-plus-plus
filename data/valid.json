@@ -1,12 +1,13 @@
 {
   'video': [
+    'https://invidious.lunivers.trade',
     'https://lekker.gay',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
@@ -15,37 +16,38 @@
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/'
+    'https://invidious.zxspectrummail.net'
   ],
   'channel': [
-    'https://lekker.gay',
+    'https://invidious.lunivers.trade',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
+    'https://invidious.lunivers.trade',
     'https://lekker.gay',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com'
   ],
   'comments': [
+    'https://invidious.lunivers.trade',
     'https://lekker.gay',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com'
   ]
 }
