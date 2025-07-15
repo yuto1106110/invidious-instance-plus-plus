@@ -8,7 +8,7 @@
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/',
     'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
@@ -21,7 +21,6 @@
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
     'https://iv.ggtyler.dev/'
   ],
   'channel': [
@@ -33,7 +32,7 @@
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
@@ -46,7 +45,7 @@
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
@@ -59,8 +58,9 @@
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
+    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
