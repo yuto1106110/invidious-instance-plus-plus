@@ -5,11 +5,12 @@
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
@@ -17,10 +18,11 @@
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/'
+    'https://lekker.gay/',
+    'https://nyc1.iv.ggtyler.dev/'
   ],
   'channel': [
     'https://invidious.lunivers.trade',
@@ -28,11 +30,12 @@
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
@@ -41,7 +44,6 @@
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
@@ -54,11 +56,12 @@
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
