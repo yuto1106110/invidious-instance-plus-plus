@@ -2,7 +2,6 @@
   'video': [
     'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
@@ -11,10 +10,7 @@
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://lekker.gay/'
   ],
   'search': [
     'https://iv.ggtyler.dev',
@@ -39,9 +35,7 @@
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://lekker.gay/'
   ],
   'playlist': [
     'https://iv.ggtyler.dev',
@@ -56,8 +50,7 @@
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.ggtyler.dev/'
   ],
   'comments': [
     'https://iv.ggtyler.dev',
@@ -72,8 +65,6 @@
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.ggtyler.dev/'
   ]
 }
