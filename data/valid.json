@@ -2,9 +2,10 @@
   'video': [
     'https://invidious.lunivers.trade',
     'https://lekker.gay',
-    'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
@@ -12,9 +13,11 @@
     'https://iv.ggtyler.dev/'
   ],
   'search': [
-    'https://pol1.iv.ggtyler.dev',
+    'https://lekker.gay',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
@@ -22,9 +25,10 @@
   ],
   'channel': [
     'https://invidious.lunivers.trade',
-    'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
@@ -33,27 +37,27 @@
   ],
   'playlist': [
     'https://invidious.lunivers.trade',
-    'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/'
+    'https://iv.ggtyler.dev/'
   ],
   'comments': [
     'https://invidious.lunivers.trade',
     'https://lekker.gay',
-    'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.lunivers.trade/',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/'
+    'https://iv.ggtyler.dev/'
   ]
 }
