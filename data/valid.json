@@ -1,17 +1,12 @@
 {
   'video': [
     'https://iv.ggtyler.dev',
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
@@ -19,9 +14,7 @@
     'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
@@ -29,15 +22,13 @@
   ],
   'channel': [
     'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
@@ -45,9 +36,7 @@
     'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
@@ -59,14 +48,11 @@
     'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
-    'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
     'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
