@@ -2,7 +2,7 @@
   'video': [
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.nikkosphere.com'
@@ -10,14 +10,14 @@
   'search': [
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net'
   ],
   'channel': [
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.nikkosphere.com'
@@ -25,7 +25,7 @@
   'playlist': [
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.nikkosphere.com'
@@ -33,7 +33,7 @@
   'comments': [
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://invidious.nikkosphere.com'
