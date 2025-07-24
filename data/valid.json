@@ -4,26 +4,30 @@
     'https://nyc1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/'
+    'https://lekker.gay/'
   ],
   'search': [
     'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
     'https://iv.ggtyler.dev/'
   ],
   'channel': [
     'https://iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/'
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/'
   ],
   'playlist': [
     'https://iv.ggtyler.dev',
@@ -31,6 +35,7 @@
     'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
     'https://iv.ggtyler.dev/'
   ],
   'comments': [
@@ -38,9 +43,10 @@
     'https://nyc1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://inv.antopie.org',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/'
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/'
   ]
 }
