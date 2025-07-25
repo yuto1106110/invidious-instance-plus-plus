@@ -1,47 +1,37 @@
 {
   'video': [
-    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.zxspectrummail.net'
   ],
   'search': [
-    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.zxspectrummail.net'
   ],
   'channel': [
-    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.zxspectrummail.net'
   ],
   'playlist': [
-    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.zxspectrummail.net'
   ],
   'comments': [
-    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
+    'https://invidious.flokinet.to',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.zxspectrummail.net'
   ]
 }
