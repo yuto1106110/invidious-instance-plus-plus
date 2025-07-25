@@ -1,22 +1,37 @@
 {
   'video': [
+    'https://iv.ggtyler.dev',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://super8.absturztau.be'
+    'https://super8.absturztau.be',
+    'https://iv.ggtyler.dev/'
   ],
   'search': [
+    'https://iv.ggtyler.dev',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://super8.absturztau.be'
   ],
   'channel': [
+    'https://iv.ggtyler.dev',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://super8.absturztau.be'
   ],
   'playlist': [
+    'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://super8.absturztau.be'
+    'https://super8.absturztau.be',
+    'https://iv.ggtyler.dev/'
   ],
   'comments': [
+    'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
-    'https://super8.absturztau.be'
+    'https://super8.absturztau.be',
+    'https://iv.ggtyler.dev/'
   ]
 }
