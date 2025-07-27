@@ -1,5 +1,6 @@
 {
   'video': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.baczek.me',
@@ -12,10 +13,10 @@
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.zxspectrummail.net'
   ],
   'channel': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.baczek.me',
@@ -24,7 +25,9 @@
     'https://invidious.lunivers.trade/'
   ],
   'playlist': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
+    'https://nyc1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
@@ -33,7 +36,9 @@
     'https://iv.ggtyler.dev/'
   ],
   'comments': [
+    'https://iv.ggtyler.dev',
     'https://invidious.lunivers.trade',
+    'https://nyc1.iv.ggtyler.dev',
     'https://cal1.iv.ggtyler.dev',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
