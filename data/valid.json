@@ -1,49 +1,25 @@
 {
   'video': [
-    'https://iv.ggtyler.dev',
-    'https://nyc1.iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
-    'https://invidious.flokinet.to',
+    'https://invidious.lunivers.trade',
     'https://super8.absturztau.be',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/'
+    'https://invidious.lunivers.trade/'
   ],
   'search': [
-    'https://iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
-    'https://invidious.flokinet.to',
-    'https://super8.absturztau.be',
-    'https://iv.ggtyler.dev/'
+    'https://super8.absturztau.be'
   ],
   'channel': [
-    'https://iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
-    'https://invidious.flokinet.to',
+    'https://invidious.lunivers.trade',
     'https://super8.absturztau.be',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.lunivers.trade/'
   ],
   'playlist': [
-    'https://iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.lunivers.trade',
     'https://super8.absturztau.be',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.lunivers.trade/'
   ],
   'comments': [
-    'https://iv.ggtyler.dev',
-    'https://nyc1.iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
+    'https://invidious.lunivers.trade',
     'https://super8.absturztau.be',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/'
+    'https://invidious.lunivers.trade/'
   ]
 }
