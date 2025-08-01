@@ -1,35 +1,32 @@
 {
   'video': [
-    'https://invidious.lunivers.trade',
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
-    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/'
   ],
   'search': [
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://iv.ggtyler.dev/'
   ],
   'channel': [
-    'https://invidious.lunivers.trade',
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
-    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/'
   ],
   'playlist': [
-    'https://invidious.lunivers.trade',
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
-    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/'
   ],
   'comments': [
-    'https://invidious.lunivers.trade',
     'https://pol1.iv.ggtyler.dev',
+    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
-    'https://invidious.lunivers.trade/',
     'https://iv.ggtyler.dev/'
   ]
 }
