@@ -1,8 +1,8 @@
 {
   'video': [
     'https://iv.ggtyler.dev',
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
@@ -12,6 +12,7 @@
   'search': [
     'https://iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
@@ -20,8 +21,8 @@
   ],
   'channel': [
     'https://iv.ggtyler.dev',
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
@@ -30,8 +31,8 @@
   ],
   'playlist': [
     'https://iv.ggtyler.dev',
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
@@ -41,6 +42,7 @@
     'https://iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://pol1.iv.ggtyler.dev',
     'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
