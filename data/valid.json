@@ -1,8 +1,10 @@
 {
   'video': [
     'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
+    'https://iv.ggtyler.dev/',
     'https://nyc1.iv.ggtyler.dev/'
   ],
   'search': [
@@ -14,7 +16,8 @@
   'channel': [
     'https://iv.ggtyler.dev',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
+    'https://invidious.zxspectrummail.net',
+    'https://iv.ggtyler.dev/'
   ],
   'playlist': [
     'https://iv.ggtyler.dev',
@@ -24,8 +27,10 @@
   ],
   'comments': [
     'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/'
+    'https://iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev/'
   ]
 }
