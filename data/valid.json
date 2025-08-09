@@ -1,21 +1,18 @@
 {
   'video': [
     'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://iv.ggtyler.dev/'
   ],
   'search': [
     'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://iv.ggtyler.dev/'
   ],
   'channel': [
     'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://iv.ggtyler.dev/'
@@ -23,7 +20,6 @@
   'playlist': [],
   'comments': [
     'https://pol1.iv.ggtyler.dev',
-    'https://inv.antopie.org',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net'
   ]
