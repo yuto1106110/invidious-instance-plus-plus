@@ -1,30 +1,30 @@
 {
   'video': [
-    'https://nyc1.iv.ggtyler.dev',
-    'https://iv.melmac.space',
-    'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
-  ],
-  'search': [
-    'https://nyc1.iv.ggtyler.dev',
-    'https://iv.melmac.space',
+    'https://iv.ggtyler.dev',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://iv.ggtyler.dev/'
   ],
-  'channel': [
+  'search': [
+    'https://iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev',
-    'https://iv.melmac.space',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
+    'https://iv.ggtyler.dev/',
     'https://nyc1.iv.ggtyler.dev/'
+  ],
+  'channel': [
+    'https://iv.ggtyler.dev',
+    'https://super8.absturztau.be',
+    'https://invidious.zxspectrummail.net',
+    'https://iv.ggtyler.dev/'
   ],
   'playlist': [],
   'comments': [
+    'https://iv.ggtyler.dev',
     'https://nyc1.iv.ggtyler.dev',
-    'https://iv.melmac.space',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/'
+    'https://nyc1.iv.ggtyler.dev/'
   ]
 }
