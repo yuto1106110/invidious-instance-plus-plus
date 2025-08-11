@@ -1,29 +1,42 @@
 {
   'video': [
     'https://iv.ggtyler.dev',
+    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
+    'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
+    'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/'
   ],
   'search': [
     'https://iv.ggtyler.dev',
+    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
+    'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/'
+    'https://lekker.gay/'
   ],
   'channel': [
     'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
+    'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
+    'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/'
   ],
   'playlist': [],
   'comments': [
     'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
+    'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
+    'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/'
+    'https://lekker.gay/'
   ]
 }
