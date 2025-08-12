@@ -1,30 +1,43 @@
 {
   'video': [
-    'https://iv.melmac.space',
+    'https://iv.ggtyler.dev',
+    'https://pol1.iv.ggtyler.dev',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
+    'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev/'
   ],
   'search': [
+    'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
-    'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
+    'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/'
   ],
   'channel': [
+    'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
-    'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
+    'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/'
   ],
   'playlist': [],
   'comments': [
+    'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://pol1.iv.ggtyler.dev',
-    'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
+    'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/'
   ]
 }
