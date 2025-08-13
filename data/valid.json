@@ -1,7 +1,6 @@
 {
   'video': [
     'https://iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
     'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
@@ -10,7 +9,6 @@
   ],
   'search': [
     'https://iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
     'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
@@ -20,7 +18,6 @@
   ],
   'channel': [
     'https://iv.ggtyler.dev',
-    'https://pol1.iv.ggtyler.dev',
     'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
@@ -29,9 +26,7 @@
   ],
   'playlist': [],
   'comments': [
-    'https://pol1.iv.ggtyler.dev',
     'https://iv.melmac.space',
-    'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net'
