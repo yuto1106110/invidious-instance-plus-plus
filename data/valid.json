@@ -1,6 +1,5 @@
 {
   'video': [
-    'https://iv.ggtyler.dev',
     'https://lekker.gay',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
@@ -8,10 +7,10 @@
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
+    'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://iv.ggtyler.dev',
     'https://lekker.gay',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
@@ -23,7 +22,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://iv.ggtyler.dev',
     'https://lekker.gay',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
@@ -35,7 +33,6 @@
   ],
   'playlist': [],
   'comments': [
-    'https://iv.ggtyler.dev',
     'https://lekker.gay',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
@@ -43,6 +40,7 @@
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
+    'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
