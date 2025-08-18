@@ -1,6 +1,18 @@
 {
   'video': [
-    'https://iv.ggtyler.dev',
+    'https://lekker.gay',
+    'https://pol1.iv.ggtyler.dev',
+    'https://invid-api.poketube.fun',
+    'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
+    'https://invidious.zxspectrummail.net',
+    'https://lekker.gay/',
+    'https://iv.ggtyler.dev/',
+    'https://invidious.nikkosphere.com'
+  ],
+  'search': [
     'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
@@ -11,27 +23,9 @@
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
-  ],
-  'search': [
-    'https://iv.ggtyler.dev',
-    'https://lekker.gay',
-    'https://pol1.iv.ggtyler.dev',
-    'https://invid-api.poketube.fun',
-    'https://youtube.alt.tyil.nl',
-    'https://inv.antopie.org',
-    'https://invidious.baczek.me',
-    'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://invid-api.poketube.fun',
@@ -41,13 +35,10 @@
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
-    'https://iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://invid-api.poketube.fun',
@@ -57,8 +48,6 @@
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
