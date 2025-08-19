@@ -1,23 +1,19 @@
 {
   'video': [
-    'https://nyc1.iv.ggtyler.dev',
-    'https://invid-api.poketube.fun',
-    'https://youtube.alt.tyil.nl',
-    'https://invidious.baczek.me',
-    'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net'
-  ],
-  'search': [
-    'https://nyc1.iv.ggtyler.dev',
-    'https://invid-api.poketube.fun',
+    'https://iv.ggtyler.dev',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://iv.ggtyler.dev/'
   ],
+  'search': [
+    'https://youtube.alt.tyil.nl',
+    'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
+    'https://invidious.zxspectrummail.net'
+  ],
   'channel': [
-    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
@@ -25,11 +21,10 @@
   ],
   'playlist': [],
   'comments': [
-    'https://invid-api.poketube.fun',
+    'https://iv.ggtyler.dev',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/'
+    'https://invidious.zxspectrummail.net'
   ]
 }
