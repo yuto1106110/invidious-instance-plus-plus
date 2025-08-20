@@ -1,14 +1,18 @@
 {
   'video': [
     'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
     'https://iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
@@ -17,7 +21,9 @@
     'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
     'https://iv.ggtyler.dev/',
@@ -25,27 +31,33 @@
   ],
   'channel': [
     'https://iv.ggtyler.dev',
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
+    'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
     'https://iv.ggtyler.dev',
+    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
     'https://iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
