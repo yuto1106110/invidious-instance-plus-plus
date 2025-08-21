@@ -1,6 +1,5 @@
 {
   'video': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://invid-api.poketube.fun',
@@ -13,7 +12,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://invid-api.poketube.fun',
@@ -27,7 +25,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
     'https://pol1.iv.ggtyler.dev',
     'https://invid-api.poketube.fun',
@@ -50,6 +47,7 @@
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
     'https://iv.ggtyler.dev/',
+    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
