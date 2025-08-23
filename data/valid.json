@@ -1,23 +1,19 @@
 {
   'video': [
-    'https://invid-api.poketube.fun',
-    'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net'
+    'https://iv.melmac.space',
+    'https://youtube.alt.tyil.nl'
   ],
   'search': [
-    'https://invid-api.poketube.fun',
-    'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net'
+    'https://iv.melmac.space',
+    'https://youtube.alt.tyil.nl'
   ],
   'channel': [
-    'https://invid-api.poketube.fun',
-    'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net'
+    'https://iv.melmac.space',
+    'https://youtube.alt.tyil.nl'
   ],
   'playlist': [],
   'comments': [
-    'https://invid-api.poketube.fun',
-    'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net'
+    'https://iv.melmac.space',
+    'https://youtube.alt.tyil.nl'
   ]
 }
