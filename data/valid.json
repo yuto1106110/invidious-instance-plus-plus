@@ -1,36 +1,35 @@
 {
   'video': [
+    'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.zxspectrummail.net'
   ],
   'search': [
+    'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.zxspectrummail.net'
   ],
   'channel': [
+    'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.zxspectrummail.net'
   ],
   'playlist': [],
   'comments': [
+    'https://iv.melmac.space',
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
+    'https://inv.antopie.org',
     'https://super8.absturztau.be',
-    'https://invidious.zxspectrummail.net',
-    'https://iv.ggtyler.dev/',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.zxspectrummail.net'
   ]
 }
