@@ -1,6 +1,6 @@
 {
   'video': [
-    'https://lekker.gay',
+    'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
@@ -8,7 +8,7 @@
     'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://lekker.gay',
+    'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
@@ -16,7 +16,7 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://lekker.gay',
+    'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
@@ -25,11 +25,10 @@
   ],
   'playlist': [],
   'comments': [
-    'https://lekker.gay',
+    'https://iv.melmac.space',
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
     'https://invidious.nikkosphere.com'
   ]
 }
