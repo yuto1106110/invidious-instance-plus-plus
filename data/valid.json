@@ -1,23 +1,31 @@
 {
   'video': [
     'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
+    'https://invidious.zxspectrummail.net'
   ],
   'search': [
     'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
+    'https://invidious.zxspectrummail.net'
   ],
   'channel': [
     'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
+    'https://invidious.zxspectrummail.net'
   ],
   'playlist': [],
   'comments': [
     'https://youtube.alt.tyil.nl',
-    'https://invidious.zxspectrummail.net',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org',
+    'https://invidious.baczek.me',
+    'https://super8.absturztau.be',
+    'https://invidious.zxspectrummail.net'
   ]
 }
