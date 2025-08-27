@@ -3,21 +3,18 @@
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
@@ -25,7 +22,6 @@
     'https://youtube.alt.tyil.nl',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/',
     'https://invidious.nikkosphere.com'
   ]
 }
