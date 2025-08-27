@@ -2,34 +2,34 @@
   'video': [
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
-    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt'
+    'https://inv.citw.lgbt',
+    'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
-    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt'
+    'https://inv.citw.lgbt',
+    'https://invidious.nikkosphere.com'
   ],
   'channel': [
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
-    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt'
+    'https://inv.citw.lgbt',
+    'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
-    'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt'
+    'https://inv.citw.lgbt',
+    'https://invidious.nikkosphere.com'
   ]
 }
