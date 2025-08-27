@@ -1,43 +1,35 @@
 {
   'video': [
-    'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt',
-    'https://lekker.gay/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.citw.lgbt'
   ],
   'search': [
-    'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt',
-    'https://lekker.gay/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.citw.lgbt'
   ],
   'channel': [
-    'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt',
-    'https://lekker.gay/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.citw.lgbt'
   ],
   'playlist': [],
   'comments': [
-    'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.baczek.me',
     'https://super8.absturztau.be',
     'https://invidious.zxspectrummail.net',
-    'https://inv.citw.lgbt',
-    'https://lekker.gay/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.citw.lgbt'
   ]
 }
