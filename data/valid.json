@@ -1,22 +1,18 @@
 {
   'video': [
-    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net'
   ],
   'search': [
-    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net'
   ],
   'channel': [
-    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net'
   ],
   'playlist': [],
   'comments': [
-    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net'
   ]
