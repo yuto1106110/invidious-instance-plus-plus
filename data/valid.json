@@ -1,6 +1,7 @@
 {
   'video': [
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
@@ -10,6 +11,7 @@
   ],
   'search': [
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
@@ -19,6 +21,7 @@
   ],
   'channel': [
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
@@ -29,6 +32,7 @@
   'playlist': [],
   'comments': [
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://inv.antopie.org',
     'https://invidious.baczek.me',
