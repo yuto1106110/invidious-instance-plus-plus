@@ -1,40 +1,35 @@
 {
   'video': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
-    'https://nyc1.iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
-    'https://nyc1.iv.ggtyler.dev',
     'https://lekker.gay',
+    'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
     'https://lekker.gay/',
-    'https://iv.ggtyler.dev/',
     'https://invidious.nikkosphere.com'
   ]
 }
