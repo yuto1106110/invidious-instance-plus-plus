@@ -3,25 +3,25 @@
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/'
+    'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/'
+    'https://invidious.nikkosphere.com'
   ],
   'channel': [
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/'
+    'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
     'https://invid-api.poketube.fun',
     'https://youtube.alt.tyil.nl',
     'https://invidious.zxspectrummail.net',
-    'https://lekker.gay/'
+    'https://invidious.nikkosphere.com'
   ]
 }
