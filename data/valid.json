@@ -1,6 +1,7 @@
 {
   'video': [
     'https://lekker.gay/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
@@ -9,6 +10,7 @@
   ],
   'search': [
     'https://lekker.gay/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
@@ -17,6 +19,7 @@
   ],
   'channel': [
     'https://lekker.gay/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
@@ -26,6 +29,7 @@
   'playlist': [],
   'comments': [
     'https://lekker.gay/',
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
