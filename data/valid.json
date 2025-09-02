@@ -6,7 +6,6 @@
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
-    'https://invid-api.poketube.fun',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
@@ -16,7 +15,6 @@
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
-    'https://invid-api.poketube.fun',
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
@@ -26,7 +24,6 @@
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
-    'https://invid-api.poketube.fun',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
@@ -37,7 +34,6 @@
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.nikkosphere.com/',
-    'https://invid-api.poketube.fun',
     'https://invidious.nikkosphere.com'
   ]
 }
