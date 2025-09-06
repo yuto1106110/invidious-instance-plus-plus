@@ -1,35 +1,47 @@
 {
   'video': [
     'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.nikkosphere.com/',
+    'https://invid-api.poketube.fun',
+    'https://invidious.nikkosphere.com'
   ],
   'search': [
     'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.nikkosphere.com/',
+    'https://invid-api.poketube.fun',
+    'https://invidious.nikkosphere.com'
   ],
   'channel': [
     'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.nikkosphere.com/',
+    'https://invid-api.poketube.fun',
+    'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
     'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.nikkosphere.com/',
+    'https://invid-api.poketube.fun',
+    'https://invidious.nikkosphere.com'
   ]
 }
