@@ -1,5 +1,7 @@
 {
   'video': [
+    'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
@@ -10,6 +12,8 @@
     'https://invidious.nikkosphere.com'
   ],
   'search': [
+    'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
@@ -20,6 +24,8 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
+    'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
@@ -31,6 +37,8 @@
   ],
   'playlist': [],
   'comments': [
+    'https://lekker.gay/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
