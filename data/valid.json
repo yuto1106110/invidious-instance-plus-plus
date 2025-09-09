@@ -1,6 +1,5 @@
 {
   'video': [
-    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
@@ -10,7 +9,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
@@ -20,7 +18,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
@@ -31,7 +28,6 @@
   ],
   'playlist': [],
   'comments': [
-    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
