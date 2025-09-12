@@ -1,17 +1,20 @@
 {
   'video': [
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invid-api.poketube.fun'
   ],
   'search': [
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invid-api.poketube.fun'
   ],
   'channel': [
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
@@ -19,6 +22,7 @@
   ],
   'playlist': [],
   'comments': [
+    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
