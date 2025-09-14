@@ -2,21 +2,21 @@
   'video': [
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.baczek.me/',
+    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invid-api.poketube.fun'
   ],
   'search': [
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.baczek.me/',
+    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invid-api.poketube.fun'
   ],
   'channel': [
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.baczek.me/',
+    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invid-api.poketube.fun'
   ],
@@ -24,7 +24,7 @@
   'comments': [
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.baczek.me/',
+    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invid-api.poketube.fun'
   ]
