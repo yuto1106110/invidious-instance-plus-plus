@@ -1,1 +1,31 @@
-{'API': {'video': ['https://super8.absturztau.be/', 'https://invidious.ducks.party/', 'https://invidious.lunivers.trade/', 'https://invidious.nikkosphere.com/', 'https://iv.melmac.space/', 'https://lekker.gay/', 'https://cal1.iv.ggtyler.dev/', 'https://34.97.38.181/'], 'search': ['https://super8.absturztau.be/', 'https://invidious.ducks.party/', 'https://invidious.lunivers.trade/', 'https://invidious.nikkosphere.com/', 'https://iv.melmac.space/', 'https://lekker.gay/', 'https://cal1.iv.ggtyler.dev/', 'https://34.97.38.181/', 'https://rust.oskamp.nl/', 'https://pol1.iv.ggtyler.dev/', 'https://invidious.adminforge.de/', 'https://youtube.alt.tyil.nl/'], 'channel': ['https://super8.absturztau.be/', 'https://invidious.ducks.party/', 'https://invidious.lunivers.trade/', 'https://invidious.nikkosphere.com/', 'https://iv.melmac.space/', 'https://lekker.gay/', 'https://cal1.iv.ggtyler.dev/', 'https://34.97.38.181/', 'https://invidious.lunivers.trade/', 'https://youtube.alt.tyil.nl/', 'https://rust.oskamp.nl/', 'https://invidious.lunivers.trade/'], 'playlist': ['https://pol1.iv.ggtyler.dev/', 'https://invidious.lunivers.trade/', 'https://cal1.iv.ggtyler.dev/', 'https://nyc1.iv.ggtyler.dev/', 'https://iv.ggtyler.dev/', 'https://siawaseok-wakame-server2.glitch.me/', 'https://invidious.0011.lt/', 'https://invidious.nietzospannend.nl/', 'https://youtube.mosesmang.com/', 'https://iv.melmac.space/', 'https://lekker.gay/'], 'comments': ['https://iv.ggtyler.dev', 'https://cal1.iv.ggtyler.dev/', 'https://pol1.iv.ggtyler.dev/', 'https://invidious.nietzospannend.nl/', 'https://lekker.gay/', 'https://lekker.gay/']}, 'checkVideo': False}
+{
+  'video': [
+    'https://invid-api.poketube.fun/',
+    'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
+  ],
+  'search': [
+    'https://invid-api.poketube.fun/',
+    'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
+  ],
+  'channel': [
+    'https://invid-api.poketube.fun/',
+    'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
+  ],
+  'playlist': [],
+  'comments': [
+    'https://invid-api.poketube.fun/',
+    'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
+  ]
+}
