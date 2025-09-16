@@ -1,7 +1,6 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
@@ -11,7 +10,6 @@
   ],
   'search': [
     'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
@@ -21,7 +19,6 @@
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
@@ -32,7 +29,6 @@
   'playlist': [],
   'comments': [
     'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
