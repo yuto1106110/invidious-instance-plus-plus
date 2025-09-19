@@ -1,43 +1,23 @@
 {
   'video': [
-    'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun',
-    'https://invidious.lunivers.trade'
+    'https://invidious.zxspectrummail.net/'
   ],
   'search': [
-    'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun',
-    'https://invidious.lunivers.trade'
+    'https://invidious.zxspectrummail.net/'
   ],
   'channel': [
-    'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun',
-    'https://invidious.lunivers.trade'
+    'https://invidious.zxspectrummail.net/'
   ],
   'playlist': [],
   'comments': [
-    'https://invidious.lunivers.trade/',
-    'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun',
-    'https://invidious.lunivers.trade'
+    'https://invidious.zxspectrummail.net/'
   ]
 }
