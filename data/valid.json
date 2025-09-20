@@ -1,23 +1,19 @@
 {
   'video': [
-    'https://invid-api.poketube.fun/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://super8.absturztau.be/',
+    'https://invidious.zxspectrummail.net/'
   ],
   'search': [
-    'https://invid-api.poketube.fun/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://super8.absturztau.be/',
+    'https://invidious.zxspectrummail.net/'
   ],
   'channel': [
-    'https://invid-api.poketube.fun/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://super8.absturztau.be/',
+    'https://invidious.zxspectrummail.net/'
   ],
   'playlist': [],
   'comments': [
-    'https://invid-api.poketube.fun/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://super8.absturztau.be/',
+    'https://invidious.zxspectrummail.net/'
   ]
 }
