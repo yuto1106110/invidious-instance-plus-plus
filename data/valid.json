@@ -1,27 +1,27 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
-    'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/'
   ],
   'search': [
     'https://invidious.lunivers.trade/',
-    'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
-    'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/'
   ],
   'playlist': [],
   'comments': [
     'https://invidious.lunivers.trade/',
-    'https://inv.antopie.org/',
     'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/'
   ]
 }
