@@ -1,19 +1,23 @@
 {
   'video': [
-    'https://inv.antopie.org/',
-    'https://invidious.zxspectrummail.net/'
+    'https://invid-api.poketube.fun/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
   ],
   'search': [
-    'https://inv.antopie.org/',
-    'https://invidious.zxspectrummail.net/'
+    'https://invid-api.poketube.fun/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
   ],
   'channel': [
-    'https://inv.antopie.org/',
-    'https://invidious.zxspectrummail.net/'
+    'https://invid-api.poketube.fun/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
   ],
   'playlist': [],
   'comments': [
-    'https://inv.antopie.org/',
-    'https://invidious.zxspectrummail.net/'
+    'https://invid-api.poketube.fun/',
+    'https://invidious.zxspectrummail.net/',
+    'https://invid-api.poketube.fun'
   ]
 }
