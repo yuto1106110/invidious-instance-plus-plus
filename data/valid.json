@@ -1,6 +1,7 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
@@ -10,6 +11,7 @@
   ],
   'search': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
@@ -19,6 +21,7 @@
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
@@ -29,6 +32,7 @@
   'playlist': [],
   'comments': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://invid-api.poketube.fun/',
     'https://youtube.alt.tyil.nl/',
     'https://inv.antopie.org/',
