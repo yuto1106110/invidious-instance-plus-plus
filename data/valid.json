@@ -1,30 +1,34 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
+    'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.lunivers.trade'
   ],
   'search': [
     'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
+    'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.lunivers.trade'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
+    'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.lunivers.trade'
   ],
   'playlist': [],
   'comments': [
     'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
+    'https://invidious.baczek.me/',
+    'https://super8.absturztau.be/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.lunivers.trade'
   ]
