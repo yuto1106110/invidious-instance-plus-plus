@@ -1,6 +1,7 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.baczek.me/',
     'https://super8.absturztau.be/',
@@ -9,6 +10,7 @@
   ],
   'search': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.baczek.me/',
     'https://super8.absturztau.be/',
@@ -17,6 +19,7 @@
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.baczek.me/',
     'https://super8.absturztau.be/',
@@ -26,6 +29,7 @@
   'playlist': [],
   'comments': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.baczek.me/',
     'https://super8.absturztau.be/',
