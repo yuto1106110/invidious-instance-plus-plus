@@ -2,26 +2,22 @@
   'video': [
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.zxspectrummail.net/'
   ],
   'search': [
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.zxspectrummail.net/'
   ],
   'channel': [
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.zxspectrummail.net/'
   ],
   'playlist': [],
   'comments': [
     'https://youtube.alt.tyil.nl/',
     'https://super8.absturztau.be/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invid-api.poketube.fun'
+    'https://invidious.zxspectrummail.net/'
   ]
 }
