@@ -243,3 +243,11 @@ https://yt.drgnz.club/
 https://yt.bromine35.me/
 https://hyperpipe.surge.sh/
 https://watch.leptons.xyz/
+https://iv-duti-dev.zproxy.org/
+https://inv1-nadeko-net.zproxy.org/
+https://inv2-nadeko-net.zproxy.org/
+https://inv3-nadeko-net.zproxy.org/
+https://inv4-nadeko-net.zproxy.org/
+https://invidious-f5-si.zproxy.org/
+https://invidious.reallyaweso.me/
+https://iv.nboeck.de/
