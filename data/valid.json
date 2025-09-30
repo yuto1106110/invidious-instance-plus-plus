@@ -1,22 +1,18 @@
 {
   'video': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/'
   ],
   'search': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/'
   ],
   'channel': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/'
   ],
   'playlist': [],
   'comments': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/'
   ]
