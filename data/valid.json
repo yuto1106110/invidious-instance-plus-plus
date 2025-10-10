@@ -1,26 +1,19 @@
 {
   'video': [
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org/'
   ],
   'search': [
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org/'
   ],
   'channel': [
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.zxspectrummail.net/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org/'
   ],
   'playlist': [],
   'comments': [
     'https://youtube.alt.tyil.nl/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://inv.antopie.org/'
   ]
 }
