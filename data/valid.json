@@ -2,30 +2,22 @@
   'video': [
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.ducks.party',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.ducks.party'
   ],
   'search': [
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.ducks.party',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.ducks.party'
   ],
   'channel': [
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.ducks.party',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.ducks.party'
   ],
   'playlist': [],
   'comments': [
     'https://youtube.alt.tyil.nl/',
     'https://invidious.zxspectrummail.net/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.ducks.party',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.ducks.party'
   ]
 }
