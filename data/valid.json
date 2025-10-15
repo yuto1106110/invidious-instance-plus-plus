@@ -1,26 +1,22 @@
 {
   'video': [
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.ducks.party'
   ],
   'search': [
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.ducks.party'
   ],
   'channel': [
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.ducks.party'
   ],
   'playlist': [],
   'comments': [
     'https://youtube.alt.tyil.nl/',
-    'https://inv.antopie.org/',
     'https://invidious.zxspectrummail.net/',
     'https://invidious.ducks.party'
   ]
