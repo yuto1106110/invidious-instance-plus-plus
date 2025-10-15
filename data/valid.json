@@ -1,6 +1,5 @@
 {
   'video': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.vpsburti.com/',
     'https://invidious.zxspectrummail.net/',
@@ -9,7 +8,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.vpsburti.com/',
     'https://invidious.zxspectrummail.net/',
@@ -18,7 +16,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.vpsburti.com/',
     'https://invidious.zxspectrummail.net/',
@@ -28,7 +25,6 @@
   ],
   'playlist': [],
   'comments': [
-    'https://iv.melmac.space/',
     'https://youtube.alt.tyil.nl/',
     'https://invidious.vpsburti.com/',
     'https://invidious.zxspectrummail.net/',
