@@ -1,17 +1,20 @@
 {
   'video': [
+    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
+    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
+    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
@@ -19,6 +22,7 @@
   ],
   'playlist': [],
   'comments': [
+    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
