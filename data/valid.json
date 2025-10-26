@@ -2,12 +2,15 @@
   'video': [
     'https://invidious.f5.si/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
+    'https://invidious.f5.si/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
     'https://invidious.nikkosphere.com'
@@ -15,6 +18,7 @@
   'channel': [
     'https://invidious.f5.si/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
     'https://invidious.nikkosphere.com'
@@ -23,6 +27,7 @@
   'comments': [
     'https://invidious.f5.si/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.ducks.party',
     'https://invidious.nikkosphere.com'
