@@ -1,27 +1,23 @@
 {
   'video': [
-    'https://iv.melmac.space/',
-    'https://y.com.sb/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.ducks.party'
   ],
   'search': [
-    'https://iv.melmac.space/',
-    'https://y.com.sb/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.ducks.party'
   ],
   'channel': [
-    'https://iv.melmac.space/',
-    'https://y.com.sb/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.ducks.party'
   ],
   'playlist': [],
   'comments': [
-    'https://iv.melmac.space/',
-    'https://y.com.sb/',
     'https://youtube.alt.tyil.nl/',
+    'https://inv.antopie.org/',
     'https://invidious.ducks.party'
   ]
 }
