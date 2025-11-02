@@ -1,19 +1,7 @@
 {
-  'video': [
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/'
-  ],
-  'search': [
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/'
-  ],
-  'channel': [
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/'
-  ],
+  'video': [],
+  'search': [],
+  'channel': [],
   'playlist': [],
-  'comments': [
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/'
-  ]
+  'comments': []
 }
