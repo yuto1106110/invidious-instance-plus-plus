@@ -1,15 +1,19 @@
 {
   'video': [
-    'https://inv.antopie.org/'
+    'https://invidious.nikkosphere.com/',
+    'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://inv.antopie.org/'
+    'https://invidious.nikkosphere.com/',
+    'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://inv.antopie.org/'
+    'https://invidious.nikkosphere.com/',
+    'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
-    'https://inv.antopie.org/'
+    'https://invidious.nikkosphere.com/',
+    'https://invidious.nikkosphere.com'
   ]
 }
