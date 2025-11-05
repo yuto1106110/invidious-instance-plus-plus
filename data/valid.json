@@ -1,34 +1,22 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.lunivers.trade',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.lunivers.trade'
   ],
   'search': [
     'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.lunivers.trade',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.lunivers.trade'
   ],
   'channel': [
-    'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [],
   'comments': [
     'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
     'https://inv.antopie.org/',
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.lunivers.trade',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.lunivers.trade'
   ]
 }
