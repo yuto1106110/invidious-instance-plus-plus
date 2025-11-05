@@ -1,26 +1,7 @@
 {
-  'video': [
-    'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
-  ],
-  'search': [
-    'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/'
-  ],
-  'channel': [
-    'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
-  ],
+  'video': [],
+  'search': [],
+  'channel': [],
   'playlist': [],
-  'comments': [
-    'https://invidious.lunivers.trade/',
-    'https://iv.melmac.space/',
-    'https://inv.antopie.org/',
-    'https://invidious.lunivers.trade'
-  ]
+  'comments': []
 }
