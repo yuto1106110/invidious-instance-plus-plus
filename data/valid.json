@@ -1,19 +1,18 @@
 {
   'video': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/',
+    'https://invidious.lunivers.trade'
   ],
   'search': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/',
+    'https://invidious.lunivers.trade'
   ],
   'channel': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/'
   ],
   'playlist': [],
   'comments': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/',
+    'https://invidious.lunivers.trade'
   ]
 }
