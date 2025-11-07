@@ -1,21 +1,25 @@
 {
   'video': [
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [],
   'comments': [
+    'https://invidious.lunivers.trade/',
     'https://invidious.nikkosphere.com/',
     'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
