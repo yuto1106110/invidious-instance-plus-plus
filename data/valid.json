@@ -1,19 +1,19 @@
 {
   'video': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/',
+    'https://inv.kamuridesu.com/'
   ],
   'search': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/',
+    'https://inv.kamuridesu.com/'
   ],
   'channel': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/',
+    'https://inv.kamuridesu.com/'
   ],
   'playlist': [],
   'comments': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/',
+    'https://inv.kamuridesu.com/'
   ]
 }
