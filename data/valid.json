@@ -1,19 +1,15 @@
 {
   'video': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/'
   ],
   'search': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/'
   ],
   'channel': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/'
   ],
   'playlist': [],
   'comments': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
+    'https://iv.melmac.space/'
   ]
 }
