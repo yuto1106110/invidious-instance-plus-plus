@@ -1,19 +1,7 @@
 {
-  'video': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
-  ],
-  'search': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
-  ],
-  'channel': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
-  ],
+  'video': [],
+  'search': [],
+  'channel': [],
   'playlist': [],
-  'comments': [
-    'https://invidious.nikkosphere.com/',
-    'https://invidious.nikkosphere.com'
-  ]
+  'comments': []
 }
