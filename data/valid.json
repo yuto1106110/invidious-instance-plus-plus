@@ -1,19 +1,15 @@
 {
   'video': [
-    'https://iv.melmac.space/',
-    'https://invidious.lunivers.trade'
+    'https://iv.melmac.space/'
   ],
   'search': [
-    'https://iv.melmac.space/',
-    'https://invidious.lunivers.trade'
+    'https://iv.melmac.space/'
   ],
   'channel': [
-    'https://iv.melmac.space/',
-    'https://invidious.lunivers.trade'
+    'https://iv.melmac.space/'
   ],
   'playlist': [],
   'comments': [
-    'https://iv.melmac.space/',
-    'https://invidious.lunivers.trade'
+    'https://iv.melmac.space/'
   ]
 }
