@@ -1,7 +1,15 @@
 {
-  'video': [],
-  'search': [],
-  'channel': [],
+  'video': [
+    'https://iv.melmac.space/'
+  ],
+  'search': [
+    'https://iv.melmac.space/'
+  ],
+  'channel': [
+    'https://iv.melmac.space/'
+  ],
   'playlist': [],
-  'comments': []
+  'comments': [
+    'https://iv.melmac.space/'
+  ]
 }
