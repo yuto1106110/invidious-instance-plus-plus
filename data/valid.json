@@ -1,15 +1,7 @@
 {
-  'video': [
-    'https://invidious.lunivers.trade'
-  ],
-  'search': [
-    'https://invidious.lunivers.trade'
-  ],
-  'channel': [
-    'https://invidious.lunivers.trade'
-  ],
+  'video': [],
+  'search': [],
+  'channel': [],
   'playlist': [],
-  'comments': [
-    'https://invidious.lunivers.trade'
-  ]
+  'comments': []
 }
