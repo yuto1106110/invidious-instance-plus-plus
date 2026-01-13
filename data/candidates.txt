@@ -251,3 +251,4 @@ https://inv4-nadeko-net.zproxy.org/
 https://invidious-f5-si.zproxy.org/
 https://invidious.reallyaweso.me/
 https://iv.nboeck.de/
+https://yt.omada.cafe/
