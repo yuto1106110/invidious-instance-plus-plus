@@ -1,23 +1,15 @@
 {
   'video': [
-    'https://invidious.lunivers.trade/',
-    'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade'
+    'https://yt.omada.cafe/'
   ],
   'search': [
-    'https://invidious.lunivers.trade/',
-    'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade'
+    'https://yt.omada.cafe/'
   ],
   'channel': [
-    'https://invidious.lunivers.trade/',
-    'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade'
+    'https://yt.omada.cafe/'
   ],
   'playlist': [],
   'comments': [
-    'https://invidious.lunivers.trade/',
-    'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade'
+    'https://yt.omada.cafe/'
   ]
 }
