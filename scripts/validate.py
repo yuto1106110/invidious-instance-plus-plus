@@ -82,7 +82,7 @@ def check_category(url, endpoint):
             "video": "/api/v1/videos/RgKAFK5djSk",
             "search": "/api/v1/search?q=test",
             "channel": "/api/v1/channels/UCBR8-60-B28hp2BmDPdntcQ",
-            "playlist": "/api/v1/playlists/PLrEnWoR732-D67iteOI6DPdJH1opjAuJt",
+            "playlist": "/api/v1/playlists/PL2yppecMULDuhvPMr6TeqWFr3pnpXUEpv",
             "comments": "/api/v1/comments/RgKAFK5djSk"
         }
         full_url = url.rstrip("/") + test_urls[endpoint]
