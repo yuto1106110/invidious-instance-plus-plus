@@ -2,31 +2,26 @@
   'video': [
     'https://invidious.lunivers.trade/',
     'https://yt.omada.cafe/',
-    'https://invidious.ducks.party',
     'https://invidious.lunivers.trade'
   ],
   'search': [
     'https://invidious.lunivers.trade/',
     'https://yt.omada.cafe/',
-    'https://invidious.ducks.party',
     'https://invidious.lunivers.trade'
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
     'https://yt.omada.cafe/',
-    'https://invidious.ducks.party',
     'https://invidious.lunivers.trade'
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
     'https://yt.omada.cafe/',
-    'https://invidious.ducks.party',
     'https://invidious.lunivers.trade'
   ],
   'comments': [
     'https://invidious.lunivers.trade/',
     'https://yt.omada.cafe/',
-    'https://invidious.ducks.party',
     'https://invidious.lunivers.trade'
   ]
 }
