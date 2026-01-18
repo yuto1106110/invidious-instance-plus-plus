@@ -14,7 +14,11 @@
     'https://yt.omada.cafe/',
     'https://invidious.lunivers.trade'
   ],
-  'playlist': [],
+  'playlist': [
+    'https://invidious.lunivers.trade/',
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
+  ],
   'comments': [
     'https://invidious.lunivers.trade/',
     'https://yt.omada.cafe/',
