@@ -1,17 +1,21 @@
 {
   'video': [
+    'https://iv.melmac.space/',
     'https://yt.omada.cafe/'
   ],
   'search': [
+    'https://iv.melmac.space/',
     'https://yt.omada.cafe/'
   ],
   'channel': [
     'https://yt.omada.cafe/'
   ],
   'playlist': [
+    'https://iv.melmac.space/',
     'https://yt.omada.cafe/'
   ],
   'comments': [
+    'https://iv.melmac.space/',
     'https://yt.omada.cafe/'
   ]
 }
