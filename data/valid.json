@@ -5,7 +5,9 @@
   'search': [
     'https://yt.omada.cafe/'
   ],
-  'channel': [],
+  'channel': [
+    'https://yt.omada.cafe/'
+  ],
   'playlist': [
     'https://yt.omada.cafe/'
   ],
