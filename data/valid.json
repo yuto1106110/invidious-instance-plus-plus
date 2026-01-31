@@ -1,17 +1,26 @@
 {
   'video': [
-    'https://yt.omada.cafe/'
+    'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
+    'https://invidious.lunivers.trade'
   ],
   'search': [
-    'https://yt.omada.cafe/'
+    'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
+    'https://invidious.lunivers.trade'
   ],
   'channel': [
-    'https://yt.omada.cafe/'
+    'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/'
   ],
   'playlist': [
-    'https://yt.omada.cafe/'
+    'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
+    'https://invidious.lunivers.trade'
   ],
   'comments': [
-    'https://yt.omada.cafe/'
+    'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
+    'https://invidious.lunivers.trade'
   ]
 }
