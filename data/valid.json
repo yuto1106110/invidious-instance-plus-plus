@@ -1,15 +1,31 @@
 {
   'video': [
-    'https://invidious.ritoge.com/'
+    'https://invidious.lunivers.trade/',
+    'https://invidious.ritoge.com/',
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ],
   'search': [
-    'https://invidious.ritoge.com/'
+    'https://invidious.lunivers.trade/',
+    'https://invidious.ritoge.com/',
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ],
-  'channel': [],
+  'channel': [
+    'https://invidious.lunivers.trade/',
+    'https://invidious.ritoge.com/',
+    'https://invidious.lunivers.trade'
+  ],
   'playlist': [
-    'https://invidious.ritoge.com/'
+    'https://invidious.lunivers.trade/',
+    'https://invidious.ritoge.com/',
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ],
   'comments': [
-    'https://invidious.ritoge.com/'
+    'https://invidious.lunivers.trade/',
+    'https://invidious.ritoge.com/',
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ]
 }
