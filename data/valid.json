@@ -1,7 +1,6 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
-    'https://invidious.f5.si/',
     'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
@@ -43,7 +42,6 @@
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
-    'https://invidious.f5.si/',
     'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
@@ -59,7 +57,6 @@
   ],
   'comments': [
     'https://invidious.lunivers.trade/',
-    'https://invidious.f5.si/',
     'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
