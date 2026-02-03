@@ -30,7 +30,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://invidious.lunivers.trade/',
     'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
@@ -40,7 +39,7 @@
     'https://yt.cdsp.cz/',
     'https://invidious.nikkosphere.com/',
     'https://inv.nadeko.net/',
-    'https://invidious.nikkosphere.com'
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
