@@ -34,7 +34,6 @@
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
-    'https://invidious.lunivers.trade/',
     'https://iv.melmac.space/',
     'https://invidious.f5.si/',
     'https://inv.zzls.xyz/',
@@ -44,10 +43,8 @@
     'https://inv4.nadeko.net/',
     'https://inv5.nadeko.net/',
     'https://yt.cdsp.cz/',
-    'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
     'https://inv.nadeko.net/',
-    'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
   'playlist': [
