@@ -1,6 +1,8 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
+    'https://invidious.f5.si/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
     'https://invidious.lunivers.trade',
@@ -8,6 +10,8 @@
   ],
   'search': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
+    'https://invidious.f5.si/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
     'https://invidious.lunivers.trade',
@@ -18,6 +22,8 @@
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
+    'https://invidious.f5.si/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
     'https://invidious.lunivers.trade',
@@ -25,6 +31,7 @@
   ],
   'comments': [
     'https://invidious.lunivers.trade/',
+    'https://iv.melmac.space/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
     'https://invidious.lunivers.trade',
