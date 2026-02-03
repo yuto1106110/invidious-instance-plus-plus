@@ -1,6 +1,7 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
+    'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
     'https://inv3.nadeko.net/',
@@ -15,6 +16,7 @@
   ],
   'search': [
     'https://invidious.lunivers.trade/',
+    'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
     'https://inv3.nadeko.net/',
@@ -29,17 +31,20 @@
   ],
   'channel': [
     'https://invidious.lunivers.trade/',
+    'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
     'https://inv3.nadeko.net/',
     'https://inv4.nadeko.net/',
     'https://inv5.nadeko.net/',
     'https://yt.cdsp.cz/',
-    'https://yt.omada.cafe/',
-    'https://inv.nadeko.net/'
+    'https://invidious.nikkosphere.com/',
+    'https://inv.nadeko.net/',
+    'https://invidious.nikkosphere.com'
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
+    'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
     'https://inv3.nadeko.net/',
@@ -54,6 +59,7 @@
   ],
   'comments': [
     'https://invidious.lunivers.trade/',
+    'https://inv.zzls.xyz/',
     'https://inv1.nadeko.net/',
     'https://inv2.nadeko.net/',
     'https://inv3.nadeko.net/',
