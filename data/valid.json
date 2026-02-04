@@ -1,37 +1,33 @@
 {
   'video': [
-    'https://invidious.lunivers.trade/',
     'https://iv.melmac.space/',
+    'https://invidious.f5.si/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
   'search': [
-    'https://invidious.lunivers.trade/',
     'https://iv.melmac.space/',
+    'https://invidious.f5.si/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
   'channel': [
     'https://yt.omada.cafe/'
   ],
   'playlist': [
-    'https://invidious.lunivers.trade/',
     'https://iv.melmac.space/',
+    'https://invidious.f5.si/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ],
   'comments': [
-    'https://invidious.lunivers.trade/',
     'https://iv.melmac.space/',
+    'https://invidious.f5.si/',
     'https://invidious.nikkosphere.com/',
     'https://yt.omada.cafe/',
-    'https://invidious.lunivers.trade',
     'https://invidious.nikkosphere.com'
   ]
 }
