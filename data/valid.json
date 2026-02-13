@@ -1,6 +1,7 @@
 {
   'video': [
     'https://invidious.lunivers.trade/',
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://super8.absturztau.be/',
     'https://yt.omada.cafe/',
@@ -8,6 +9,7 @@
   ],
   'search': [
     'https://invidious.lunivers.trade/',
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://super8.absturztau.be/',
     'https://yt.omada.cafe/',
@@ -21,6 +23,7 @@
   ],
   'playlist': [
     'https://invidious.lunivers.trade/',
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://super8.absturztau.be/',
     'https://yt.omada.cafe/',
@@ -28,6 +31,7 @@
   ],
   'comments': [
     'https://invidious.lunivers.trade/',
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://super8.absturztau.be/',
     'https://yt.omada.cafe/',
