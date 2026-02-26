@@ -1,27 +1,32 @@
 {
   'video': [
-    'https://invidious.ritoge.com/',
+    'https://invidious.lunivers.trade/',
     'https://super8.absturztau.be/',
-    'https://yt.omada.cafe/'
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ],
   'search': [
-    'https://invidious.ritoge.com/',
+    'https://invidious.lunivers.trade/',
     'https://super8.absturztau.be/',
-    'https://yt.omada.cafe/'
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ],
   'channel': [
-    'https://invidious.ritoge.com/',
+    'https://invidious.lunivers.trade/',
     'https://super8.absturztau.be/',
-    'https://yt.omada.cafe/'
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ],
   'playlist': [
-    'https://invidious.ritoge.com/',
+    'https://invidious.lunivers.trade/',
     'https://super8.absturztau.be/',
-    'https://yt.omada.cafe/'
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ],
   'comments': [
-    'https://invidious.ritoge.com/',
+    'https://invidious.lunivers.trade/',
     'https://super8.absturztau.be/',
-    'https://yt.omada.cafe/'
+    'https://yt.omada.cafe/',
+    'https://invidious.lunivers.trade'
   ]
 }
