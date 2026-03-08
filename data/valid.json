@@ -1,17 +1,22 @@
 {
   'video': [
-    'https://invidious.f5.si/'
+    'https://invidious.f5.si/',
+    'https://invidious.ritoge.com/'
   ],
   'search': [
-    'https://invidious.f5.si/'
+    'https://invidious.f5.si/',
+    'https://invidious.ritoge.com/'
   ],
   'channel': [
-    'https://invidious.f5.si/'
+    'https://invidious.f5.si/',
+    'https://invidious.ritoge.com/'
   ],
   'playlist': [
-    'https://invidious.f5.si/'
+    'https://invidious.f5.si/',
+    'https://invidious.ritoge.com/'
   ],
   'comments': [
-    'https://invidious.f5.si/'
+    'https://invidious.f5.si/',
+    'https://invidious.ritoge.com/'
   ]
 }
