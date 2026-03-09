@@ -1,27 +1,17 @@
 {
   'video': [
-    'https://invidious.lunivers.trade/',
-    'https://invidious.ritoge.com/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.f5.si/'
   ],
   'search': [
-    'https://invidious.lunivers.trade/',
-    'https://invidious.ritoge.com/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.f5.si/'
   ],
   'channel': [
-    'https://invidious.lunivers.trade/',
-    'https://invidious.ritoge.com/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.f5.si/'
   ],
   'playlist': [
-    'https://invidious.lunivers.trade/',
-    'https://invidious.ritoge.com/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.f5.si/'
   ],
   'comments': [
-    'https://invidious.lunivers.trade/',
-    'https://invidious.ritoge.com/',
-    'https://invidious.lunivers.trade'
+    'https://invidious.f5.si/'
   ]
 }
