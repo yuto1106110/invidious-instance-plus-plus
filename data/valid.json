@@ -1,17 +1,7 @@
 {
-  'video': [
-    'https://invidious.ritoge.com/'
-  ],
-  'search': [
-    'https://invidious.ritoge.com/'
-  ],
-  'channel': [
-    'https://invidious.ritoge.com/'
-  ],
-  'playlist': [
-    'https://invidious.ritoge.com/'
-  ],
-  'comments': [
-    'https://invidious.ritoge.com/'
-  ]
+  'video': [],
+  'search': [],
+  'channel': [],
+  'playlist': [],
+  'comments': []
 }
