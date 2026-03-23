@@ -1,22 +1,17 @@
 {
   'video': [
-    'https://invidious.ritoge.com/',
-    'https://yt.omada.cafe/'
+    'https://invidious.ritoge.com/'
   ],
   'search': [
-    'https://invidious.ritoge.com/',
-    'https://yt.omada.cafe/'
+    'https://invidious.ritoge.com/'
   ],
   'channel': [
-    'https://invidious.ritoge.com/',
-    'https://yt.omada.cafe/'
+    'https://invidious.ritoge.com/'
   ],
   'playlist': [
-    'https://invidious.ritoge.com/',
-    'https://yt.omada.cafe/'
+    'https://invidious.ritoge.com/'
   ],
   'comments': [
-    'https://invidious.ritoge.com/',
-    'https://yt.omada.cafe/'
+    'https://invidious.ritoge.com/'
   ]
 }
