@@ -1,21 +1,26 @@
 {
   'video': [
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://yt.omada.cafe/'
   ],
   'search': [
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://yt.omada.cafe/'
   ],
   'channel': [
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://yt.omada.cafe/'
   ],
   'playlist': [
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://yt.omada.cafe/'
   ],
   'comments': [
+    'https://invidious.f5.si/',
     'https://invidious.ritoge.com/',
     'https://yt.omada.cafe/'
   ]
